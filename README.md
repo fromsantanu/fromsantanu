@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Santanu Karmakar 👋
 
-<!--
-**fromsantanu/fromsantanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technology specialist specializing in Health Data Science. I love working on projects related to Epidemiology and Bio Statistics.
 
-Here are some ideas to get you started:
+## Key Projects
+- Python Data Visualization : A brief description of Project 1.
+- Infectious Disease Tracking : A brief description of Project 2.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: Python, Java, PHP etc.
+- Tools & Technologies: Git, Docker, etc.
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/santanukarmakar/))
+- [Email](mailto:fromsantanu@gmailcom)
