@@ -7,7 +7,7 @@ I'm a technology specialist specializing in Health Data Science. I love working 
 - Infectious Disease Tracking : A brief description of Project 2.
 
 ## Watch the Intro 
-[![Watch the video](https://img.youtube.com/vi/wk5bUUyEFSc/hqdefault.jpg)]([https://www.youtube.com/watch?v=wk5bUUyEFSc])
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wk5bUUyEFSc" frameborder="0" allowfullscreen></iframe>
 
 ## Skills
 - Programming Languages: Python, Java, PHP etc.
