@@ -5,7 +5,10 @@ I'm a technology specialist specializing in Health Data Science. I love working 
 ## Key Projects
 - Exploratory Data Analysis (EDA) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
 - Data engineering (Pre processing scripts) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
-- Infectious Disease Tracking : It will include python scripts for different disease tracking models with examples of disease like Covid, Dengue, Autoimmune, heart disease etc.
+- Geospatial Analysis of Disease Spread: Analyze and visualize the geographic distribution of diseases using GIS tools.
+- Infectious Disease Tracking : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
+- Non-infectious disease modeling : Develop models to understand the spread of diseases in a population by simulating the interactions of individuals.
+- Predictive Analytics and Machine Learning : Use machine learning models to predict the likelihood of disease outbreaks based on historical and environmental data.
 
 ## Watch the Intro 
 [![Watch the video](https://img.youtube.com/vi/wk5bUUyEFSc/hqdefault.jpg)](https://www.youtube.com/watch?v=wk5bUUyEFSc)
