@@ -33,5 +33,5 @@ I'm a technology specialist specializing in Health Data Science. I love working 
 - Sound related works related to AI : NLP, Voice Cloning, Voice and sound designs etc.
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/santanukarmakar/))
+- [LinkedIn](https://www.linkedin.com/in/santanukarmakar/)
 - [Email](mailto:fromsantanu@gmailcom)
