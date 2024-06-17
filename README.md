@@ -20,7 +20,7 @@ I'm a technology specialist specializing in Health Data Science. I love working 
 
 
 ## Skills
-- Programming Languages: Python, E, Java, PHP etc.
+- Programming Languages: Python, R, Java, PHP etc.
 - Databasess: MySQL, MongoDB etc.
 - OS: Lynux, Ubuntu, Windows
 
