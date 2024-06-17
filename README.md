@@ -7,15 +7,20 @@ I'm a technology specialist specializing in Health Data Science. I love working 
 - Data engineering (Pre processing scripts) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 - Geospatial Analysis of Disease Spread: Analyze and visualize the geographic distribution of diseases using GIS tools.
 - Infectious Disease Tracking : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
-- Non-infectious disease modeling : Develop models to understand the spread of diseases in a population by simulating the interactions of individuals.
+- Non-infectious disease modeling : Develop Agent-Based Models to understand the spread of diseases in a population by simulating the interactions of individuals.
 - Predictive Analytics and Machine Learning : Use machine learning models to predict the likelihood of disease outbreaks based on historical and environmental data.
+- Behavioral Health Analytics: Explore the impact of behavioral factors such as smoking, diet, and exercise on health outcomes.
+- Modeling Health Behavior Changes: Develop models to predict or influence changes in health behaviors within populations.
+- Health Informatics and Data Integration: Analysing, Designing and Developing tools to process EHR data for insights into patient care and outcomes.
+- Bio-Statistical Analysis: Implementing Time-Series Analysis, Clinical Trial Data Analysis, Survival Analysis, Causal Analysis etc using Python and R.
+- Healthcare Data Warehousing: Implement data integration and warehousing solutions to consolidate health data from various sources.
 
 ## Watch the Intro 
 [![Watch the video](https://img.youtube.com/vi/wk5bUUyEFSc/hqdefault.jpg)](https://www.youtube.com/watch?v=wk5bUUyEFSc)
 
 
 ## Skills
-- Programming Languages: Python, Java, PHP etc.
+- Programming Languages: Python, E, Java, PHP etc.
 - Databasess: MySQL, MongoDB etc.
 - OS: Lynux, Ubuntu, Windows
 
