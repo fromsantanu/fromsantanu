@@ -1,6 +1,6 @@
 # Hi, I'm Santanu Karmakar 👋
 
-I'm a technology specialist specializing in Health Data Science. I love working on projects related to Epidemiology and Bio Statistics.
+I'm a technology specialist specializing in Health Data Science. I love working on projects related to Epidemiology and Bio Statistics. Presently I teach Python and Java programming language. I also mentor my students do develop programs for various projects and professionally prepare for facing the real responsibilities.
 
 ## Key Projects
 - Exploratory Data Analysis (EDA) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
@@ -13,7 +13,16 @@ I'm a technology specialist specializing in Health Data Science. I love working 
 
 ## Skills
 - Programming Languages: Python, Java, PHP etc.
-- Tools & Technologies: Git, Docker, etc.
+- Databasess: MySQL, MongoDB etc.
+- OS: Lynux, Ubuntu, Windows
+
+## Spoken and Written Languages
+- Spoken: English, Hindi, Bengali
+- Written: English, Hindi
+
+## Additional Interests
+- Video making on various subjects, especially on the side of technology and healthcare etc.
+- Sound related works related to AI : NLP, Voice Cloning, Voice and sound designs etc.
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/santanukarmakar/))
