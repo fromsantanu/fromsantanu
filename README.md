@@ -3,7 +3,7 @@
 I'm a technology specialist specializing in Health Data Science. I love working on projects related to Epidemiology and Bio Statistics. Presently I teach Python and Java programming language. I also mentor my students do develop programs for various projects and professionally prepare for facing the real responsibilities.
 
 ## Key Projects
-- Exploratory Data Analysis (EDA) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
+- [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
 - Data engineering (Pre processing scripts) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 - Geospatial Analysis of Disease Spread: Analyze and visualize the geographic distribution of diseases using GIS tools.
 - Infectious Disease Tracking : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
