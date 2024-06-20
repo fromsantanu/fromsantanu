@@ -2,7 +2,7 @@
 
 I'm a technology specialist interested in Health Data Science. I love working on projects related to Epidemiology and Bio Statistics. Presently I teach Python and Java programming language. I also mentor my students do develop programs for various projects and professionally prepare for facing the real responsibilities.
 
-## Key Projects
+## Key Project Categories
 - [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
 - [Data engineering (Pre processing scripts)](https://github.com/fromsantanu/tbd) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 - [Geospatial Analysis of Disease Spread](https://github.com/fromsantanu/tbd) : Analyze and visualize the geographic distribution of diseases using GIS tools and dealing with maps and coordinates.
