@@ -4,6 +4,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 
 ## Key Project Categories
 - [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
+- [Statistical Methods (Pre processing scripts)](https://github.com/fromsantanu/tbd) : This category includes problems of descriptive, Inferential statistics and probability distrbutions.
 - [Data engineering (Pre processing scripts)](https://github.com/fromsantanu/tbd) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 - [Geospatial Analysis of Disease Spread](https://github.com/fromsantanu/tbd) : Analyze and visualize the geographic distribution of diseases using GIS tools and dealing with maps and coordinates.
 - [Infectious Disease Modeling](https://github.com/fromsantanu/tbd) : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
