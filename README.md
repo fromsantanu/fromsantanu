@@ -7,7 +7,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 - [Statistical Methods (STM)](https://github.com/fromsantanu/STM-Main) : This category includes problems of descriptive, Inferential statistics and probability distrbutions. This is advanced statistics.
 - [Data engineering (DEM)](https://github.com/fromsantanu/DEM-Main) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 - [Geospatial Analysis of Disease Spread (GADS)](https://github.com/fromsantanu/GADS-Main) : Analyze and visualize the geographic distribution of diseases using GIS tools and dealing with maps and coordinates.
-- [Infectious Disease Modeling(IDM)](https://github.com/fromsantanu/IDM-Main) : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
+- [Infectious Disease Modeling (IDM)](https://github.com/fromsantanu/IDM-Main) : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
 - [Non-infectious Disease Modeling (NIDM)](https://github.com/fromsantanu/NIDM-Main) : Develop Agent-Based Models to understand the spread of diseases in a population by simulating the interactions of individuals.
 - [Predictive Analytics and Machine Learning (PAML)](https://github.com/fromsantanu/PAML-Main) : Use machine learning models to predict the likelihood of disease outbreaks based on historical and environmental data.
 - [Behavioral Health Analytics (BHA)](https://github.com/fromsantanu/BHA-Main) : Explore the impact of behavioral factors such as smoking, diet, sleep, exercise and stress on health outcomes.
