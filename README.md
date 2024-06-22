@@ -6,7 +6,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 
 
 <p align="right">
-  <a href="https://www.youtube.com/watch?v=9Fm0vvlb7JQ" target="_blank">
+  <a href="https://www.youtube.com/watch?v=9jBWk1SDq9g" target="_blank">
     <img src="https://img.shields.io/badge/take_a_tour-watch_a_video-blue" alt="Watch Video">
   </a>
 </p>
