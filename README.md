@@ -7,8 +7,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 <!-- -->
 <p align="right">
   <a href="https://www.youtube.com/watch?v=abcd1234" target="_blank">
-    <img src="https://img.shields.io/badge/[Take-Video-Tour-green]([https://img.shields.io/badge/take_a_tour-watch_a_video-blue
-]" alt="Take a Video Tour">
+    <img src="https://img.shields.io/badge/[Take-Video-Tour-green]([https://img.shields.io/badge/take_a_tour-watch_a_video-blue]" alt="Take a Video Tour">
   </a>
 </p>
 <!-- -->
