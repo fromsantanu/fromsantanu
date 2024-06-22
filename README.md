@@ -4,13 +4,14 @@ I'm a technology specialist interested in Health Data Science. I love working on
 
 ## Key Project Categories
 
-<!--
+<!-- -->
 <p align="right">
   <a href="https://www.youtube.com/watch?v=abcd1234" target="_blank">
-    <img src="https://img.shields.io/badge/Take-Video-Tour-green" alt="Take a Video Tour">
+    <img src="https://img.shields.io/badge/[Take-Video-Tour-green](https://img.shields.io/badge/take_a_tour-watch_a_video-blue
+)" alt="Take a Video Tour">
   </a>
 </p>
--->
+<!-- -->
 
 - [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
 - [Statistical Methods (STM)](https://github.com/fromsantanu/STM-Main) : This category includes problems of descriptive, Inferential statistics and probability distrbutions. This is advanced statistics.
