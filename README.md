@@ -16,7 +16,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 - [Bio-Statistical Analysis (BSA)](https://github.com/fromsantanu/BSA-Main) : Implementing Time-Series Analysis, Clinical Trial Data Analysis, Survival Analysis, Causal Analysis etc using Python and R.
 - [Data Warehousing and Intelligence (DWI)](https://github.com/fromsantanu/DWI-Main) : Implement data integration and warehousing solutions to consolidate health data from various sources.
 
-## Watch the Intro 
+## About Me (Watch the video) 
 [![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
 
 
