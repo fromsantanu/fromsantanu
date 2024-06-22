@@ -17,7 +17,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 - [Data Warehousing and Intelligence (DWI)](https://github.com/fromsantanu/DWI-Main) : Implement data integration and warehousing solutions to consolidate health data from various sources.
 
 ## Watch the Intro 
-[![Watch the video](https://img.youtube.com/vi/wk5bUUyEFSc/hqdefault.jpg)](https://www.youtube.com/watch?v=wk5bUUyEFSc)
+[![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
 
 
 ## Skills
