@@ -3,6 +3,16 @@
 I'm a technology specialist interested in Health Data Science. I love working on projects related to Epidemiology and Bio Statistics. Presently I teach Python and Java programming language. I also mentor my students do develop programs for various projects and professionally prepare for facing the real responsibilities.
 
 ## Key Project Categories
+
+<!-- Markdown code for the content of your README -->
+
+<p align="right">
+  <a href="https://www.youtube.com/watch?v=abcd1234" target="_blank">
+    <img src="https://img.shields.io/badge/Watch-Video-green" alt="Watch Video">
+  </a>
+</p>
+
+<!-- More Markdown content -->
 - [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
 - [Statistical Methods (STM)](https://github.com/fromsantanu/STM-Main) : This category includes problems of descriptive, Inferential statistics and probability distrbutions. This is advanced statistics.
 - [Data engineering (DEM)](https://github.com/fromsantanu/DEM-Main) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
