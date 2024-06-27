@@ -19,8 +19,8 @@ I'm a technology specialist interested in Health Data Science. I love working on
 - [Geospatial Analysis of Disease Spread (GADS)](https://github.com/fromsantanu/GADS-Main) : Analyze and visualize the geographic distribution of diseases using GIS tools and dealing with maps and coordinates.
 - [Infectious Disease Modeling (IDM)](https://github.com/fromsantanu/IDM-Main) : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
 - [Non-infectious Disease Modeling (NIDM)](https://github.com/fromsantanu/NIDM-Main) : Develop Agent-Based Models to understand the spread of diseases in a population by simulating the interactions of individuals.
-- [Data engineering (DEM)](https://github.com/fromsantanu/DEM-Main) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 - [Bio-Statistical Analysis (BSA)](https://github.com/fromsantanu/BSA-Main) : Implementing Time-Series Analysis, Clinical Trial Data Analysis, Survival Analysis, Causal Analysis etc using Python and R.
+- [Data engineering (DEM)](https://github.com/fromsantanu/DEM-Main) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 
 ### Complete Case Studies
 
