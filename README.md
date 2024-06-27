@@ -24,7 +24,8 @@ I'm a technology specialist interested in Health Data Science. I love working on
 ### Complete Case Studies
 
 - [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) : A case study about treatment of Tuberculosis in India
-
+- [Dengue in West Bengal(DWB)](https://github.com/fromsantanu/DWB-Main) : A case study about spread of Dengue in West Bengal
+- [Covid in Worldwide (CWW)](https://github.com/fromsantanu/CWW-Main) : A case study about spread of Covid in Worldwide 
 
 ## About Me (Watch the video) 
 [![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
