@@ -14,7 +14,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 
 - [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
 - [Descriptive Statistics (DST)](https://github.com/fromsantanu/STM-Main) : This category includes problems of descriptive statistics. This will liclude problems of central tendency and dispersion.
-- [Inferential Statistics (IST)](https://github.com/fromsantanu/STM-Main) : This category includes problems of inferential statistics. This will include problems dealing with populations and samples,estimation, hypothesis testing, confidence intervals etc.
+- Inferential Statistics (IST)(https://github.com/fromsantanu/STM-Main) : This category includes problems of inferential statistics. This will include problems dealing with populations and samples,estimation, hypothesis testing, confidence intervals etc.
 - [Behavioral Health Analytics (BHA)](https://github.com/fromsantanu/BHA-Main) : Explore the impact of behavioral factors such as smoking, diet, sleep, exercise and stress on health outcomes.
 - [Geospatial Analysis of Disease Spread (GADS)](https://github.com/fromsantanu/GADS-Main) : Analyze and visualize the geographic distribution of diseases using GIS tools and dealing with maps and coordinates.
 - [Infectious Disease Modeling (IDM)](https://github.com/fromsantanu/IDM-Main) : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
