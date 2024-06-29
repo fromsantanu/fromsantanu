@@ -21,7 +21,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 - Non-infectious Disease Modeling (NIDM) : Develop Agent-Based Models to understand the spread of diseases in a population by simulating the interactions of individuals.
 - Bio-Statistical Analysis (BSA) : Implementing Time-Series Analysis, Clinical Trial Data Analysis, Survival Analysis, Causal Analysis etc using Python and R.
 -Data engineering (DEM) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
-
+~~[Example Link](https://example.com)~~
 ### Complete Case Studies
 
 - [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) : A case study about treatment of Tuberculosis in India
