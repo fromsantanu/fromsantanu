@@ -12,6 +12,10 @@ I'm a technology specialist interested in Health Data Science. I love working on
 
 ### Methods & Techniques
 
+<--
+- [Basic Python Programming (BPP)](#) :  The section covers basic Python programming and the packages that are commonly used for the purpose.
+- [Basic SQL Understanding (BSU)](#) :  The section covers basic Python programming and the packages that are commonly used for the purpose.
+-->
 - [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
 - [Descriptive Statistics (DST)](https://github.com/fromsantanu/STM-Main) : This category includes problems of descriptive statistics. This will liclude problems of central tendency and dispersion.
 <!--
