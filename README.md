@@ -14,6 +14,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 
 - [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
 - [Descriptive Statistics (DST)](https://github.com/fromsantanu/STM-Main) : This category includes problems of descriptive statistics. This will liclude problems of central tendency and dispersion.
+<!--
 - [Inferential Statistics (IST) (Currently disabled)](#) : This category includes problems of inferential statistics. This will include problems dealing with populations and samples,estimation, hypothesis testing, confidence intervals etc.
 - [Behavioral Health Analytics (BHA) (Currently disabled)](#) : Explore the impact of behavioral factors such as smoking, diet, sleep, exercise and stress on health outcomes.
 - [Geospatial Analysis of Disease Spread (GADS) (Currently disabled)](#) : Analyze and visualize the geographic distribution of diseases using GIS tools and dealing with maps and coordinates.
@@ -21,7 +22,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 - [Non-infectious Disease Modeling (NIDM) (Currently disabled)](#) : Develop Agent-Based Models to understand the spread of diseases in a population by simulating the interactions of individuals.
 - [Bio-Statistical Analysis (BSA) (Currently disabled)](#) : Implementing Time-Series Analysis, Clinical Trial Data Analysis, Survival Analysis, Causal Analysis etc using Python and R.
 - [Data engineering (DEM) (Currently disabled)](#) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
-
+-->
 ### Complete Case Studies
 
 - [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) : A complete case study based on Government Report on Tuberculosis in India (2023). It is an informative content for anyone interested in epidemiology of Tuberculosis in India
