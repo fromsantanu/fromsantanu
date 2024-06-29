@@ -14,6 +14,8 @@ I'm a technology specialist interested in Health Data Science. I love working on
 
 - [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
 - [Descriptive Statistics (DST)](https://github.com/fromsantanu/STM-Main) : This category includes problems of descriptive statistics. This will liclude problems of central tendency and dispersion.
+
+[!NOTE]
 - [Inferential Statistics (IST) (Comming soon)](#) : This category includes problems of inferential statistics. This will include problems dealing with populations and samples,estimation, hypothesis testing, confidence intervals etc.
 - [Behavioral Health Analytics (BHA) (Comming soon)](#) : Explore the impact of behavioral factors such as smoking, diet, sleep, exercise and stress on health outcomes.
 - [Geospatial Analysis of Disease Spread (GADS) (Comming soon)](#) : Analyze and visualize the geographic distribution of diseases using GIS tools and dealing with maps and coordinates.
@@ -25,10 +27,6 @@ I'm a technology specialist interested in Health Data Science. I love working on
 ### Complete Case Studies
 
 - [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) : A case study about treatment of Tuberculosis in India
-
-```html
-<span style="color: grey;">Sample</span>
-
 
 ## About Me (Watch the video) 
 [![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
