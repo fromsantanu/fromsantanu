@@ -12,7 +12,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 
 ### Methods & Techniques
 
-<--
+<!--
 - [Basic Python Programming (BPP)](#) :  The section covers basic Python programming and the packages that are commonly used for the purpose.
 - [Basic SQL Understanding (BSU)](#) :  The section covers basic Python programming and the packages that are commonly used for the purpose.
 -->
