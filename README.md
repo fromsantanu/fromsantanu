@@ -25,6 +25,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 ### Complete Case Studies
 
 - [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) : A case study about treatment of Tuberculosis in India
+
 <a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 
 ## About Me (Watch the video) 
