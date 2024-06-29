@@ -16,6 +16,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 - [Descriptive Statistics (DST)](https://github.com/fromsantanu/STM-Main) : This category includes problems of descriptive statistics. This will liclude problems of central tendency and dispersion.
 
 [!NOTE]
+
 - [Inferential Statistics (IST) (Comming soon)](#) : This category includes problems of inferential statistics. This will include problems dealing with populations and samples,estimation, hypothesis testing, confidence intervals etc.
 - [Behavioral Health Analytics (BHA) (Comming soon)](#) : Explore the impact of behavioral factors such as smoking, diet, sleep, exercise and stress on health outcomes.
 - [Geospatial Analysis of Disease Spread (GADS) (Comming soon)](#) : Analyze and visualize the geographic distribution of diseases using GIS tools and dealing with maps and coordinates.
