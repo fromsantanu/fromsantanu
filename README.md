@@ -22,7 +22,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 - Bio-Statistical Analysis (BSA) : Implementing Time-Series Analysis, Clinical Trial Data Analysis, Survival Analysis, Causal Analysis etc using Python and R.
 -Data engineering (DEM) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 
-<a href="#" style="color:red;">Example Link</a>
+<a href="#" style="color:#FF0000;">Example Link</a>
 
 ### Complete Case Studies
 
