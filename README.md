@@ -20,7 +20,7 @@ I'm a technology specialist interested in Health Data Science. I love working on
 - [Infectious Disease Modeling (IDM) (Comming soon) (Comming soon)](#) : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
 - [Non-infectious Disease Modeling (NIDM) (Comming soon)](#) : Develop Agent-Based Models to understand the spread of diseases in a population by simulating the interactions of individuals.
 - [Bio-Statistical Analysis (BSA) (Comming soon)](#) : Implementing Time-Series Analysis, Clinical Trial Data Analysis, Survival Analysis, Causal Analysis etc using Python and R.
--[Data engineering (DEM) (Comming soon)](#) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
+- [Data engineering (DEM) (Comming soon)](#) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 
 ### Complete Case Studies
 
