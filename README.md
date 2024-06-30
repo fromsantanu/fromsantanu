@@ -10,10 +10,12 @@ I'm a technology specialist interested in Health Data Science. I love working on
   </a>
 </p>
 
-### Methods & Techniques
+### Foundational Knowledge
 
 - [Basic Python Programming (BPP)](https://github.com/fromsantanu/BPP-Main) :  The section covers basic Python programming and the packages that are commonly used for the purpose.
-- [Basic SQL Understanding (BSU)](https://github.com/fromsantanu/BSU-Main) :  The section covers basic Python programming and the packages that are commonly used for the purpose.
+- [Basic SQL concept Understanding (BSU)](https://github.com/fromsantanu/BSU-Main) :  The section covers basic MySQL knowledge with standard SQL techniques that are commonly used for the purpose.
+
+### Domain specific Methods & Techniques
 - [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
 - [Descriptive Statistics (DST)](https://github.com/fromsantanu/STM-Main) : This category includes problems of descriptive statistics. This will liclude problems of central tendency and dispersion.
 <!--
