@@ -2,7 +2,7 @@
 
 I'm a technology specialist interested in Health Data Science. I love working on projects related to Epidemiology and Bio Statistics. Presently I teach Python and Java programming language. I also mentor my students do develop programs for various projects and professionally prepare for facing the real responsibilities.
 
-## Key Project Categories
+## Information Categories
 
 <p align="right">
   <a href="https://www.youtube.com/watch?v=9jBWk1SDq9g" target="_blank">
