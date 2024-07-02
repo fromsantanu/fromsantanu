@@ -2,14 +2,14 @@
 
 I'm a technology specialist interested in Health Data Science. These repositories have been created mainly for those who want to learn subjects associated with health data science. Here, we have three categories:
 
-- Foundation Category: This category deals with foundational knowledge like Python, R, SQL, etc.
+- **Foundational Knowledge**: This category deals with foundational knowledge like Python, R, SQL, etc.
 
-- Domain-Specific Techniques and Methods: In this category, you will find solutions that answer specific questions related to health data science.
+- **Domain-Specific Techniques and Methods**: In this category, you will find solutions that answer specific questions related to health data science.
 
-- Complete Case Studies: This section provides a list of solutions that aim to solve a single, larger problem.
+- **Complete Case Studies**: This section provides a list of solutions that aim to solve a single, larger problem.
 
 
-## Information Categories
+## Key Categories
 
 <p align="right">
   <a href="https://www.youtube.com/watch?v=9jBWk1SDq9g" target="_blank">
