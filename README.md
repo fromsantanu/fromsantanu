@@ -41,20 +41,6 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 ## About Me (Watch the video) 
 [![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
 
-
-## Skills
-- Programming Languages: Python, R, Java, PHP etc.
-- Databasess: MySQL, MongoDB etc.
-- OS: Lynux, Ubuntu, Windows
-
-## Spoken and Written Languages
-- Spoken: English, Hindi, Bengali
-- Written: English, Hindi
-
-## Additional Interests
-- Video making on various subjects, especially on the side of technology and healthcare etc.
-- Sound related works related to AI : NLP, Voice Cloning, Voice and sound designs etc.
-
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/santanukarmakar/)
 - [Email](mailto:fromsantanu@gmailcom)
