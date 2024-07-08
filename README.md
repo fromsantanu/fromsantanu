@@ -18,14 +18,14 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 
 ### Foundational Knowledge
 
-- [Basic Python Programming (BPP)](https://github.com/fromsantanu/BPP-Main) :  The section covers basic Python programming and the packages that are commonly used for the purpose.
+- [Basic Python Programming (BPP)](https://github.com/fromsantanu/BPP-Main) :  The scope includes Basic Python Techniques, Numpy, Pandas, Matplotlib and other comon packages,
 <!--
 - [Basic SQL concept Understanding (BSU)](https://github.com/fromsantanu/BSU-Main) :  The section covers basic MySQL knowledge with standard SQL techniques that are commonly required to store and retrieve data.
 -->
 
 ### Domain specific Methods & Techniques
-- [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : It consists of python scripts of exploratory data analysis on various examples like disease and health infrastructure.
-- [Descriptive Statistics (DST)](https://github.com/fromsantanu/STM-Main) : This category includes problems of descriptive statistics. This will liclude problems of central tendency and dispersion.
+- [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : Includes basic charting methods like line chart, bar chart, histogram, pie chart and scatter charts. 
+- [Descriptive Statistics (DST)](https://github.com/fromsantanu/STM-Main) : The scope includes application of mean, medean and mode, varience, covarience, standard deviation, and concept of quartiles and quantiles.
 <!--
 - [Inferential Statistics (IST) (Currently disabled)](#) : This category includes problems of inferential statistics. This will include problems dealing with populations and samples,estimation, hypothesis testing, confidence intervals etc.
 - [Behavioral Health Analytics (BHA) (Currently disabled)](#) : Explore the impact of behavioral factors such as smoking, diet, sleep, exercise and stress on health outcomes.
