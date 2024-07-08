@@ -26,7 +26,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 ### Domain specific Methods & Techniques
 - [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : Includes basic charting methods like line chart, bar chart, histogram, pie chart and scatter charts. It also include the methods of data cleaning and preparation etc.
 - [Descriptive Statistics (DST)](https://github.com/fromsantanu/STM-Main) : The scope includes application of mean, medean and mode, varience, covarience, standard deviation, and concept of quartiles and quantiles.
-- [Inferential Statistics (IST) (Currently disabled)](#) : The scope include advanced charting with probaility distributions, hypothesis tesing, regression options, ANOVA resting etc. 
+- [Inferential Statistics (IST) (Currently disabled)](#) : The scope include advanced charting with probaility distributions, hypothesis tesing, regression options, ANOVA testing etc. 
 <!--
 
 - [Behavioral Health Analytics (BHA) (Currently disabled)](#) : Explore the impact of behavioral factors such as smoking, diet, sleep, exercise and stress on health outcomes.
