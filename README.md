@@ -23,7 +23,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [Basic SQL concept Understanding (BSU)](https://github.com/fromsantanu/BSU-Main) :  The section covers basic MySQL knowledge with standard SQL techniques that are commonly required to store and retrieve data.
 -->
 
-### Domain specific Methods & Techniques
+### Domain Specific Methods & Techniques
 - [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : Includes basic charting methods like line chart, bar chart, histogram, pie chart and scatter charts. It also include the methods of data cleaning and preparation etc.
 - [Descriptive Statistics (DST)](https://github.com/fromsantanu/STM-Main) : The scope includes application of mean, medean and mode, varience, covarience, standard deviation, and concept of quartiles and quantiles.
 - [Inferential Statistics (IST) (Currently disabled)](#) : The scope include advanced charting with probaility distributions, hypothesis tesing, regression options, ANOVA testing etc. 
