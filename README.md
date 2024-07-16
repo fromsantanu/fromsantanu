@@ -40,7 +40,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 
 - [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000)
 : A complete case study based on Government Report on Tuberculosis in India (2023). It is an informative content for anyone interested in epidemiology of Tuberculosis in India. 
-- [PM2.5 and Mortality in Indian Cities (PM25)](https://github.com/fromsantanu/PM25-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000) : A report based on Lancet report published in 2023 on study of mortality rate in 10 Indian cities with proportionate rising level of PM2.5 particles in atmosphere.  
+- [PM2.5 and Mortality in Indian Cities (PM25)](https://github.com/fromsantanu/PM25-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000) : Our analysis based on Lancet report published in 2023 on study of mortality rate in 10 Indian cities with proportionate rising level of PM2.5 particles in atmosphere.  
 ## About Me (Watch the video) 
 [![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
 
