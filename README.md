@@ -18,7 +18,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 
 ### Foundational Knowledge
 
-- [Basic Python Programming (BPP)](https://github.com/fromsantanu/BPP-Main) :  The scope includes Basic Python Techniques, Numpy, Pandas, Matplotlib and other comon packages,
+- [Basic Python Programming (BPP)](https://github.com/fromsantanu/BPP-Main) ![Static Badge](https://img.shields.io/badge/Incomplete-Crimson):  The scope includes Basic Python Techniques, Numpy, Pandas, Matplotlib and other comon packages,
 <!--
 - [Basic SQL concept Understanding (BSU)](https://github.com/fromsantanu/BSU-Main) :  The section covers basic MySQL knowledge with standard SQL techniques that are commonly required to store and retrieve data.
 -->
