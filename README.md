@@ -36,7 +36,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [Bio-Statistical Analysis (BSA) (Currently disabled)](#) : Implementing Time-Series Analysis, Clinical Trial Data Analysis, Survival Analysis, Causal Analysis etc using Python and R.
 - [Data engineering (DEM) (Currently disabled)](#) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 -->
-### Thematic Analysis and Research Reviews
+### Thematic reviews and Research analysis
 
 - [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000)
 : A complete case study based on Government Report on Tuberculosis in India (2023). It is an informative content for anyone interested in epidemiology of Tuberculosis in India. 
