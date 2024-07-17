@@ -29,11 +29,10 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [Inferential Statistics (IST)](https://github.com/fromsantanu/IST-Main) : The scope include advanced charting with probaility distributions, hypothesis tesing, regression options, ANOVA testing etc. 
 <!--
 
-- [Behavioral Health Analytics (BHA) (Currently disabled)](#) : Explore the impact of behavioral factors such as smoking, diet, sleep, exercise and stress on health outcomes.
-- [Geospatial Analysis of Disease Spread (GADS) (Currently disabled)](#) : Analyze and visualize the geographic distribution of diseases using GIS tools and dealing with maps and coordinates.
 - [Infectious Disease Modeling (IDM) (Comming soon) (Currently disabled)](#) : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
 - [Non-infectious Disease Modeling (NIDM) (Currently disabled)](#) : Develop Agent-Based Models to understand the spread of diseases in a population by simulating the interactions of individuals.
 - [Bio-Statistical Analysis (BSA) (Currently disabled)](#) : Implementing Time-Series Analysis, Clinical Trial Data Analysis, Survival Analysis, Causal Analysis etc using Python and R.
+- [Machine Learning and Neural Network (MLNN) (Currently disabled)](#) : Implementing machine learning and neural network to analyze and predict different situations related to health and disease.
 - [Data engineering (DEM) (Currently disabled)](#) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 -->
 ### Thematic reviews and Research analysis
