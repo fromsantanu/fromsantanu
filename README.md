@@ -4,7 +4,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 
 - **Foundational Knowledge**: This category deals with foundational knowledge like Python, R, SQL, etc.
 - **Domain-Specific Methods and Techniques**: In this category, solutions exists that answer specific questions related to health datascience.
-- **Complete Case Studies**: This section provides a list of solutions that aim to solve a single, larger problem.
+- **Thematic Reviews and Research Analysis**: This section reviews existing researches and reports. Here we do our own analysis with data extracted from real sources.
 
 
 ## Key Categories
