@@ -39,7 +39,11 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [Data engineering (DEM) (Currently disabled)](#) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 -->
 ### Thematic reviews and Research analysis
-
+<!--
+- [Topic Research (TR)](https://github.com/fromsantanu/TR-Main) : This section will contain reasearch on various burning health problems. This is mainly for general knowledge.
+- [Research Analysis (RA)](https://github.com/fromsantanu/RA-Main) : This section will contain analysis and explanation of single existing research paper on various burning health problems.
+- [Literature Review (LR](https://github.com/fromsantanu/RA-Main) : This section will contain analysis of existing research reasearch on various burning health problems.
+-->
 - [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000)
 : A complete case study based on Government Report on Tuberculosis in India (2023). It is an informative content for anyone interested in epidemiology of Tuberculosis in India. 
 - [PM2.5 and Mortality in Indian Cities (PM25)](https://github.com/fromsantanu/PM25-Main) : Our analysis based on a report published Lancet Planetary Health in July 2024 on study of mortality rates in 10 Indian cities with proportionate to rising level of PM2.5 particles in atmosphere.  
