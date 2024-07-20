@@ -40,9 +40,9 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 -->
 ### Thematic reviews and Research analysis
 <!--
-- [Topic Research (TR)](https://github.com/fromsantanu/TR-Main) : This section will contain reasearch on various burning health problems. This is mainly for general knowledge.
-- [Research Analysis (RA)](https://github.com/fromsantanu/RA-Main) : This section will contain analysis and explanation of single existing research paper on various burning health problems.
-- [Literature Review (LR](https://github.com/fromsantanu/RA-Main) : This section will contain analysis of existing research reasearch on various burning health problems.
+- [Topic Research (TR)](https://github.com/fromsantanu/TR-Main) : Topic research involves gathering and synthesizing information on a specific subject(or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
+- [Research Analysis (RA)](https://github.com/fromsantanu/RA-Main) : This section will contain analysis and explanation of single existing research paper on on a healthe related topic.
+- [Literature Review (LR](https://github.com/fromsantanu/LR-Main) : A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
 -->
 - [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000)
 : A complete case study based on Government Report on Tuberculosis in India (2023). It is an informative content for anyone interested in epidemiology of Tuberculosis in India. 
