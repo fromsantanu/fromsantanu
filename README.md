@@ -8,7 +8,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 
 
 ## Key Categories
-[<img src="https://img.shields.io/badge/take_a_tour-listen_to_this_audio-green" alt="listen audio">](https://htmlpreview.github.io/?https://github.com/fromsantanu/fromsantanu/audio/GitHub-tour.html)
+[<img src="https://img.shields.io/badge/take_a_tour-listen_to_this_audio-green" alt="listen audio">](https://htmlpreview.github.io/?https://github.com/fromsantanu/fromsantanu/main/audio/GitHub-tour.html)
 
 <!--
 <p align="right">
