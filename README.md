@@ -8,6 +8,8 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 
 
 ## Key Categories
+[<img src="https://img.shields.io/badge/take_a_tour-watch_a_video-blue" alt="Watch Video">]("audio/Github-tour")
+
 <!--
 <p align="right">
   <a href="https://www.youtube.com/watch?v=9jBWk1SDq9g" target="_blank">
