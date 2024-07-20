@@ -38,7 +38,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [Machine Learning and Neural Network (MLNN) (Currently disabled)](#) : Implementing machine learning and neural network to analyze and predict different situations related to health and disease.
 - [Data engineering (DEM) (Currently disabled)](#) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 -->
-### Thematic reviews and Research analysis
+### Research analysis and reviews
 <!--
 - [Topic Research (TR)](https://github.com/fromsantanu/TR-Main) : Topic research involves gathering and synthesizing information on a specific subject(or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
 - [Research Analysis (RA)](https://github.com/fromsantanu/RA-Main) : This section will contain analysis and explanation of single existing research paper on on a healthe related topic.
