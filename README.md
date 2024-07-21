@@ -37,9 +37,9 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 -->
 ### Research analysis and reviews
 
-- [Topic Research (TR)](https://github.com/fromsantanu/TR-Main) : Topic research involves gathering and synthesizing information on a specific subject(or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
+- [Topic Research (TR)](https://github.com/fromsantanu/TR-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000): Topic research involves gathering and synthesizing information on a specific subject(or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
 - [Research Analysis (RA)](https://github.com/fromsantanu/RA-Main) : This section will contain analysis and explanation of single chosen research paper on a health related topic. The objective is to make things simpler to understand through easier explanations.
-- [Literature Review (LR](https://github.com/fromsantanu/LR-Main) : A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
+- [Literature Review (LR](https://github.com/fromsantanu/LR-Main) ![Static Badge](https://img.shields.io/badge/Not%20Started-red): A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
 
 <!--
 - [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000)
