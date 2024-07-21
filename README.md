@@ -4,7 +4,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 
 - **Foundational Knowledge**: This category deals with foundational knowledge like Python, R, SQL, etc.
 - **Domain-Specific Methods and Techniques**: In this category, solutions exists that answer specific questions related to health datascience.
-- **Research analysis and reviews**: This section reviews existing researches and reports. Here we do our own analysis with data extracted from real sources.
+- **Research Analysis and Reviews**: This section reviews existing researches and reports. Here we do our own analysis with data extracted from real sources.
 
 
 ## Key Categories
@@ -35,7 +35,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [Machine Learning and Neural Network (MLNN) (Currently disabled)](#) : Implementing machine learning and neural network to analyze and predict different situations related to health and disease.
 - [Data engineering (DEM) (Currently disabled)](#) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 -->
-### Research analysis and reviews
+### Research Analysis and Reviews
 
 - [Topic Research (TR)](https://github.com/fromsantanu/TR-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000): Topic research involves gathering and synthesizing information on a specific subject(or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
 - [Research Analysis (RA)](https://github.com/fromsantanu/RA-Main) : This section will contain analysis and explanation of single chosen research paper on a health related topic. The objective is to make things simpler to understand through easier explanations.
