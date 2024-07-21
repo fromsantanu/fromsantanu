@@ -36,15 +36,16 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [Data engineering (DEM) (Currently disabled)](#) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 -->
 ### Research analysis and reviews
-<!--
+
 - [Topic Research (TR)](https://github.com/fromsantanu/TR-Main) : Topic research involves gathering and synthesizing information on a specific subject(or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
 - [Research Analysis (RA)](https://github.com/fromsantanu/RA-Main) : This section will contain analysis and explanation of single existing research paper on on a healthe related topic.
 - [Literature Review (LR](https://github.com/fromsantanu/LR-Main) : A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
--->
+
+<!--
 - [Tubeculosis in India (TBI)](https://github.com/fromsantanu/TBI-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000)
 : A complete case study based on Government Report on Tuberculosis in India (2023). It is an informative content for anyone interested in epidemiology of Tuberculosis in India. 
 - [PM2.5 and Mortality in Indian Cities (PM25)](https://github.com/fromsantanu/PM25-Main) : Our analysis based on a report published Lancet Planetary Health in July 2024 on study of mortality rates in 10 Indian cities with proportionate to rising level of PM2.5 particles in atmosphere.  
-
+-->
 ## About Me (Watch the video) 
 [![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
 
