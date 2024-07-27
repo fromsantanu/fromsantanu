@@ -18,17 +18,17 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 
 ### Foundational Knowledge
 
-- [Basic Python Programming (BPP)](https://github.com/fromsantanu/BPP-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000):  The scope includes Basic Python Techniques for using Python language. Additionally we also cover the commonly used packages like Numpy, Pandas, Matplotlib and others which are useful in this context.
-- [Basic R Programming (BRP)](https://github.com/fromsantanu/BRP-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000):  The scope includes basic R programming with an intention to solve statistical problem solving. There are two main sections. First part covers basic R knowledge to solve statistics and second part mainly focuses on the use of prominant packages that are commonly used in R.
+- [**Basic Python Programming (BPP)**](https://github.com/fromsantanu/BPP-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000):  The scope includes Basic Python Techniques for using Python language. Additionally we also cover the commonly used packages like Numpy, Pandas, Matplotlib and others which are useful in this context.
+- [**Basic R Programming (BRP)**](https://github.com/fromsantanu/BRP-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000):  The scope includes basic R programming with an intention to solve statistical problem solving. There are two main sections. First part covers basic R knowledge to solve statistics and second part mainly focuses on the use of prominant packages that are commonly used in R.
 <!--
 
-- [Basic SQL concept Understanding (BSU)](https://github.com/fromsantanu/BSU-Main) :  The section covers basic MySQL knowledge with standard SQL techniques that are commonly required to store and retrieve data.
+- [**Basic SQL concept Understanding (BSU)**](https://github.com/fromsantanu/BSU-Main) :  The section covers basic MySQL knowledge with standard SQL techniques that are commonly required to store and retrieve data.
 -->
 
 ### Domain Specific Methods & Techniques
-- [Exploratory Data Analysis (EDA)](https://github.com/fromsantanu/EDA-Main) : Includes basic charting methods like line chart, bar chart, histogram, pie chart and scatter charts. It also include the methods of data cleaning and preparation etc.
-- [Descriptive Statistics (DST)](https://github.com/fromsantanu/DST-Main) : The scope includes application of mean, medean and mode, varience, covarience, standard deviation, and concept of quartiles and quantiles.
-- [Inferential Statistics (IST)](https://github.com/fromsantanu/IST-Main) : The scope include advanced charting with probaility distributions, hypothesis tesing, regression options, ANOVA testing etc. 
+- [**Exploratory Data Analysis (EDA)**](https://github.com/fromsantanu/EDA-Main) : Includes basic charting methods like line chart, bar chart, histogram, pie chart and scatter charts. It also include the methods of data cleaning and preparation etc.
+- [**Descriptive Statistics (DST)**](https://github.com/fromsantanu/DST-Main) : The scope includes application of mean, medean and mode, varience, covarience, standard deviation, and concept of quartiles and quantiles.
+- [**Inferential Statistics (IST)**](https://github.com/fromsantanu/IST-Main) : The scope include advanced charting with probaility distributions, hypothesis tesing, regression options, ANOVA testing etc. 
 <!--
 
 - [Infectious Disease Modeling (IDM) (Comming soon) (Currently disabled)](#) : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
@@ -39,14 +39,14 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 -->
 ### Research Analysis and Reviews
 
-- [Topic Research (TR)](https://github.com/fromsantanu/TR-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000): Topic research involves gathering and synthesizing information on a specific subject (or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
-- [Research Analysis (RA)](https://github.com/fromsantanu/RA-Main) : This section will contain analysis and explanation of single chosen research paper on a health related topic. The objective is to make things simpler to understand through easier explanations.
-- [Literature Review (LR)](https://github.com/fromsantanu/LR-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000): A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
-- [Simulated Research (SR)](https://github.com/fromsantanu/SR-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000): In simulated research we create realistic scenarios to practice research without involving real subjects and real data. In this we develop complete research proposals, including design, data collection plans, and data analysis strategies, using simulated data. We use hypothetical or past real-world cases to illustrate the research process and methodologies. It is just a way to learn and practice how to conduct a real research without involving people and data.
+- [**Topic Research (TR)**](https://github.com/fromsantanu/TR-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000): Topic research involves gathering and synthesizing information on a specific subject (or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
+- [**Research Analysis (RA)**](https://github.com/fromsantanu/RA-Main) : This section will contain analysis and explanation of single chosen research paper on a health related topic. The objective is to make things simpler to understand through easier explanations.
+- [**Literature Review (LR)**](https://github.com/fromsantanu/LR-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000): A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
+- [**Simulated Research (SR)**](https://github.com/fromsantanu/SR-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000): In simulated research we create realistic scenarios to practice research without involving real subjects and real data. In this we develop complete research proposals, including design, data collection plans, and data analysis strategies, using simulated data. We use hypothetical or past real-world cases to illustrate the research process and methodologies. It is just a way to learn and practice how to conduct a real research without involving people and data.
 
 ## About Me (Watch the video) 
 [![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/santanukarmakar/)
-- [Email](mailto:fromsantanu@gmailcom)
+- [**LinkedIn**](https://www.linkedin.com/in/santanukarmakar/)
+- [**Email**](mailto:fromsantanu@gmailcom)
