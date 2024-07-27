@@ -1,6 +1,6 @@
 # Hi, I'm Santanu Karmakar 👋
 
-I'm a technology specialist interested in Health Data Science. These repositories have been created mainly for those who want to learn subjects associated with health data science. Here, we have three categories:
+I'm a technology specialist interested in Health Data Science. These repositories have been created mainly for those who want to learn subjects associated with health data science. We intend to learn the method of researching, analysing and concluding on various problems that are related to healthcare practice. Here, we have three categories:
 
 - **Foundational Knowledge**: This category deals with foundational knowledge like Python, R, SQL, etc.
 - **Domain-Specific Methods and Techniques**: In this category, solutions exists that answer specific questions related to health datascience.
