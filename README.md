@@ -18,8 +18,8 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 
 ### Foundational Knowledge
 
-- [**Basic Python Programming (BPP)**](https://github.com/fromsantanu/BPP-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000):  The scope includes Basic Python Techniques for using Python language. Additionally we also cover the commonly used packages like Numpy, Pandas, Matplotlib and others which are useful in this context.
-- [**Basic R Programming (BRP)**](https://github.com/fromsantanu/BRP-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000):  The scope includes basic R programming with an intention to solve statistical problem solving. There are two main sections. First part covers basic R knowledge to solve statistics and second part mainly focuses on the use of prominant packages that are commonly used in R.
+- [**Basic Python Programming (BPP)**](https://github.com/fromsantanu/BPP-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000):  The scope includes basic Python techniques for using the Python language. Additionally, we cover commonly used packages like NumPy, Pandas, Matplotlib, and others that are useful in this context.
+- [**Basic R Programming (BRP)**](https://github.com/fromsantanu/BRP-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000):  The scope includes basic R programming with the intention of solving statistical problems. There are two main sections. The first part covers basic R knowledge to solve statistical problems, while the second part focuses on the use of prominent packages commonly used in R.
 <!--
 
 - [**Basic SQL concept Understanding (BSU)**](https://github.com/fromsantanu/BSU-Main) :  The section covers basic MySQL knowledge with standard SQL techniques that are commonly required to store and retrieve data.
