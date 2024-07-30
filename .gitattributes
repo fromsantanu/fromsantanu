@@ -1,1 +1,3 @@
+# Set the language for specific file types
+*.md linguist-language=Markdown
 *.ipynb linguist-language=Python
