@@ -2,6 +2,10 @@
 
 ![HitCount](https://hits.dwyl.com/fromsantanu/fromsantanu.svg)
 
+## About Me (Watch the video) 
+[![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
+
+
 I'm a technology specialist interested in Health Data Science. These repositories have been created primarily for those who want to learn subjects associated with health data science. **We particularly aim to teach methods for researching, analyzing, and concluding on various problems related to healthcare practice**. Our main focus lies in the processes of **interpreting data, analyzing charts, drawing statistical inferences, and learning to make informed decisions**. Additionally, we want to explore methods of prediction. Therefore, we have organized the content into three categories:
 
 - **Foundational Knowledge**: This category deals with foundational knowledge like Python, R, SQL, etc.
@@ -46,9 +50,6 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Research Analysis (RA)**](https://github.com/fromsantanu/RA-Main) : This section will contain analysis and explanation of single chosen research paper on a health related topic. The objective is to make things simpler to understand through easier explanations.
 - [**Literature Review (LR)**](https://github.com/fromsantanu/LR-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000): A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
 - [**Simulated Research (SR)**](https://github.com/fromsantanu/SR-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000): In simulated research, we create realistic scenarios to practice research without involving real subjects and real data. We develop complete research proposals, including design, data collection plans, and data analysis strategies, using simulated data. Hypothetical or past real-world cases are used to illustrate the research process and methodologies. This approach allows us to learn and practice how to conduct real research without involving people and actual data.
-
-## About Me (Watch the video) 
-[![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
 
 ## Contact
 - [**LinkedIn**](https://www.linkedin.com/in/santanukarmakar/)
