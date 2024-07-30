@@ -55,8 +55,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**LinkedIn**](https://www.linkedin.com/in/santanukarmakar/)
 - [**Email**](mailto:fromsantanu@gmailcom)
 
-## GitHub Statistics
-
+## GitHub Summary Statistics
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fromsantanu&theme=vue)
 ![Santanu's Github Statistics](https://github-readme-stats.vercel.app/api?username=fromsantanu&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fromsantanu&layout=compact)](https://github.com/fromsantanu/github-readme-stats)
