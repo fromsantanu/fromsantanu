@@ -55,5 +55,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Email**](mailto:fromsantanu@gmailcom)
 
 ## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fromsantanu&layout=compact)](https://github.com/fromsantanu/github-readme-stats)
+
 ![Santanu's Github Statistics](https://github-readme-stats.vercel.app/api?username=fromsantanu&show_icons=true&theme=radical)
 
