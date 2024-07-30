@@ -1,6 +1,6 @@
 # Hi, I'm Santanu Karmakar 👋
 <p align="right">
-     ![Visitor Count](https://hits.dwyl.com/fromsantanu/fromsantanu.svg)
+     [![HitCount](https://hits.dwyl.com/fromsantanu/fromsantanu.svg?style=flat)](http://hits.dwyl.com/fromsantanu/fromsantanu)
 </p>
 
 I'm a technology specialist interested in Health Data Science. These repositories have been created primarily for those who want to learn subjects associated with health data science. **We particularly aim to teach methods for researching, analyzing, and concluding on various problems related to healthcare practice**. Our main focus lies in the processes of **interpreting data, analyzing charts, drawing statistical inferences, and learning to make informed decisions**. Additionally, we want to explore methods of prediction. Therefore, we have organized the content into three categories:
