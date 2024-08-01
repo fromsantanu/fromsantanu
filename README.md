@@ -6,11 +6,11 @@
  <!--
 [![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
 -->
-<div style="text-align: center;">
+<dp style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=9Fm0vvlb7JQ" target="_blank">
     <img src="https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg" alt="Watch the video" style="width:700px;height:auto;">
   </a>
-</div>
+</p>
 I'm a technology specialist interested in Health Data Science. These repositories have been created primarily for those who want to learn subjects associated with health data science. **We particularly aim to teach methods for researching, analyzing, and concluding on various problems related to healthcare practice**. Our main focus lies in the processes of **interpreting data, analyzing charts, drawing statistical inferences, and learning to make informed decisions**. Additionally, we want to explore methods of prediction. Therefore, we have organized the content into three categories:
 
 - **Foundational Knowledge**: This category deals with foundational knowledge like Python, R, SQL, etc.
