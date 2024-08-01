@@ -6,7 +6,7 @@
  <!--
 [![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
 -->
-<p style="text-align: center;">
+ <p align="center">
   <a href="https://www.youtube.com/watch?v=9Fm0vvlb7JQ" target="_blank">
     <img src="https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg" alt="Watch the video" style="width:700px;height:auto;">
   </a>
