@@ -9,7 +9,7 @@
 I'm a technology specialist interested in Health Data Science. These repositories have been created primarily for those who want to learn subjects associated with health data science. **We particularly aim to teach methods for researching, analyzing, and concluding on various problems related to healthcare practice**. Our main focus lies in the processes of **interpreting data, analyzing charts, drawing statistical inferences, and learning to make informed decisions**. Additionally, we want to explore methods of prediction. Therefore, we have organized the content into three categories:
 
 - **Foundational Knowledge**: This category deals with foundational knowledge like Python, R, SQL, etc.
-- **Domain-Specific Methods and Techniques**: In this category, solutions exists that answer specific questions related to health datascience.
+- **Case Studies on Healthcare and Epidemiology**: In this category, solutions exists that answer specific questions related to health datascience.
 - **Research Analysis and Reviews**: This section reviews existing researches and reports. Here we do our own analysis with data extracted from real sources.
 
 
@@ -33,10 +33,10 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Basic SQL concept Understanding (BSU)**](https://github.com/fromsantanu/BSU-Main) :  The section covers basic MySQL knowledge with standard SQL techniques that are commonly required to store and retrieve data.
 -->
 
-### Case Studies
-- [**Exploratory Data Analysis (EDA)**](https://github.com/fromsantanu/EDA-Main) : Includes basic charting methods like line chart, bar chart, histogram, pie chart and scatter charts. It also include the methods of data cleaning and preparation etc.
-- [**Descriptive Statistics (DST)**](https://github.com/fromsantanu/DST-Main) : The scope includes application of mean, medean and mode, varience, covarience, standard deviation, and concept of quartiles and quantiles.
-- [**Inferential Statistics (IST)**](https://github.com/fromsantanu/IST-Main) : The scope include advanced charting with probaility distributions, hypothesis tesing, regression options, ANOVA testing etc. 
+### Case Studies on Healthcare and Epideiology
+- [**Cases of Exploratory Data Analysis (EDA)**](https://github.com/fromsantanu/EDA-Main) : Includes basic charting methods like line chart, bar chart, histogram, pie chart and scatter charts. It also include the methods of data cleaning and preparation etc.
+- [**Uses of Descriptive Statistics (DST)**](https://github.com/fromsantanu/DST-Main) : The scope includes application of mean, medean and mode, varience, covarience, standard deviation, and concept of quartiles and quantiles.
+- [**Application of Inferential Statistics (IST)**](https://github.com/fromsantanu/IST-Main) : The scope include advanced charting with probaility distributions, hypothesis tesing, regression options, ANOVA testing etc. 
 <!--
 
 - [Infectious Disease Modeling (IDM) (Comming soon) (Currently disabled)](#) : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
