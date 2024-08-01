@@ -24,9 +24,10 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 
 ### Foundational Knowledge
 
-- [**Basic Python Programming (BPP)**](https://github.com/fromsantanu/BPP-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000):  The scope includes basic Python techniques for using the Python language. Additionally, we cover commonly used packages like NumPy, Pandas, Matplotlib, and others that are useful in this context.
+- [**Basic Python Programming (BPP)**](https://github.com/fromsantanu/BPP-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000):  The scope includes basic Python techniques for using the Python language. Additionally, there are many packages that are used for different purpose. We have covered commonly used packages like NumPy, Pandas, Matplotlib, and others that are useful in this context.
 - [**Basic R Programming (BRP)**](https://github.com/fromsantanu/BRP-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000):  The scope includes basic R programming with the intention of solving statistical problems. There are two main sections. The first part covers basic R knowledge to solve statistical problems, while the second part focuses on the use of prominent packages commonly used in R.
 - [**Introduction to Research Methods (IRM)**](https://github.com/fromsantanu/IRM-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000): Here, we have tried to include sections on common research methods related to the healthcare domain. Healthcare heavily depends on new findings contributed by research and studies on existing methods of treatment and their efficacies. Hence, we consider the ability to conduct research to be fundamental to healthcare studies.
+- [**Basic Statistics for Research (BSR)**](https://github.com/fromsantanu/BSR-Main) ![Static Badge](https://img.shields.io/badge/In%20Progress-008000): In this section we have covered the basic techniques of statistics relevant to research and investigation.
 <!--
 
 - [**Basic SQL concept Understanding (BSU)**](https://github.com/fromsantanu/BSU-Main) :  The section covers basic MySQL knowledge with standard SQL techniques that are commonly required to store and retrieve data.
