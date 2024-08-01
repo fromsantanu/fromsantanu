@@ -6,7 +6,10 @@
 <!--
 [![Watch the video](https://img.youtube.com/vi/9Fm0vvlb7JQ/hqdefault.jpg)](https://www.youtube.com/watch?v=9Fm0vvlb7JQ)
 -->
-[My-Intro-For-GitHub-V2]
+<video width="320" height="240" controls>
+  <source src="My-Intro-For-GitHub-V2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 I'm a technology specialist interested in Health Data Science. These repositories have been created primarily for those who want to learn subjects associated with health data science. **We particularly aim to teach methods for researching, analyzing, and concluding on various problems related to healthcare practice**. Our main focus lies in the processes of **interpreting data, analyzing charts, drawing statistical inferences, and learning to make informed decisions**. Additionally, we want to explore methods of prediction. Therefore, we have organized the content into three categories:
