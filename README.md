@@ -12,7 +12,7 @@
 ## Introduction 
 I'm a technology specialist interested in Health Data Science. These repositories have been created primarily for those who want to learn subjects associated with health data science. **We particularly aim to teach methods for researching, analyzing, and concluding on various problems related to healthcare practice**. Our main focus lies in the processes of **interpreting data, analyzing charts, drawing statistical inferences, and learning to make informed decisions**. Additionally, we want to explore methods of prediction. Therefore, we have organized the content into three categories:
 
-- **Foundational Knowledge**: This category deals with foundational knowledge like Python, R, SQL, etc.
+- **Foundational Knowledge**: This category deals with foundational knowledge like Python, R, statistics, public health, developmental studies, public policies etc.
 - **Case Studies on Healthcare and Epidemiology**: In this category, solutions exists that answer specific questions related to health datascience.
 - **Research Analysis and Reviews**: This section reviews existing researches and reports. Here we do our own analysis with data extracted from real sources.
 
