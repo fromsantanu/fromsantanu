@@ -39,7 +39,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Cases of Exploratory Data Analysis (EDA)**](https://github.com/fromsantanu/EDA-Main) : Includes basic charting methods like line chart, bar chart, histogram, pie chart and scatter charts. It also include the methods of data cleaning and preparation etc.
 - [**Uses of Descriptive Statistics (DST)**](https://github.com/fromsantanu/DST-Main) : The scope includes application of mean, medean and mode, varience, covarience, standard deviation, and concept of quartiles and quantiles.
 - [**Application of Inferential Statistics (IST)**](https://github.com/fromsantanu/IST-Main) : The scope include advanced charting with probaility distributions, hypothesis tesing, regression options, ANOVA testing etc.
-- [**Public Health in India (PHI)**](https://github.com/fromsantanu/PHI-Main) :The section "Public Health in India" focuses on how India is improving healthcare infrastructure, combating diseases, promoting wellness, and addressing health disparities across diverse populations.
+- [**Public Health in India (PHIN)**](https://github.com/fromsantanu/PHI-Main) :The section "Public Health in India" focuses on how India is improving healthcare infrastructure, combating diseases, promoting wellness, and addressing health disparities across diverse populations.
 - [**Public Health in United Kingdom (PHUK)**](https://github.com/fromsantanu/PHUK-Main) : The section "Public Health in the United Kingdom" is a comprehensive study of how UK has implemented disease prevention, health promotion, reducing inequalities, and delivering comprehensive healthcare through the NHS (National Health Services).
 <!--
 
