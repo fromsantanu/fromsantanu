@@ -1,7 +1,5 @@
 # Hi, I'm Santanu Karmakar 👋
 
-![HitCount](https://hits.dwyl.com/fromsantanu/fromsantanu.svg)
-
 ## About Me (Watch the video) 
  <p align="center">
   <a href="https://www.youtube.com/watch?v=FvoeaVcs6fE" target="_blank">
