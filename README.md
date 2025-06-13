@@ -58,7 +58,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Statistical Plotting & Visualizations**](https://github.com/fromsantanu/stat-plot-main/blob/main/README.md)
 - [**Probability & Probability Distributions**](https://github.com/fromsantanu/prob-dist-main/blob/main/README.md)
 - [**Inferential Statistics & Hypothesis Testing**](https://github.com/fromsantanu/inf-stat-main/blob/main/README.md)
-- [**Case Studies**]
+- **Case Studies**
   - [**Exploratory Data Analysis**](https://github.com/fromsantanu/eda-stat-main/blob/main/README.md)
   - [**Inferential Statistics**](https://github.com/fromsantanu/inf-cst-main/blob/main/README.md)
     
