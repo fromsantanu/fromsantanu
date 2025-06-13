@@ -54,13 +54,13 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [Data engineering (DEM) (Currently disabled)](#) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 -->
 ### Statistics With Python
-- [**Descriptive Statistics**](https://github.com/fromsantanu/#)
-- [**Statistical Plotting & Visualizations**](https://github.com/fromsantanu/#)
-- [**Probability & Probability Distributions**](https://github.com/fromsantanu/#)
-- [**Inferential Statistics & Hypothesis Testing**](https://github.com/fromsantanu/#)
-- [**Case Studies**](https://github.com/fromsantanu/#)
-  - [**Exploratory Data Analysis**](https://github.com/fromsantanu/#)
-  - [**Inferential Statistics**](https://github.com/fromsantanu/#)
+- [**Descriptive Statistics**](https://github.com/fromsantanu/desc-stat-main/blob/main/README.md)
+- [**Statistical Plotting & Visualizations**](https://github.com/fromsantanu/stat-plot-main/blob/main/README.md)
+- [**Probability & Probability Distributions**](https://github.com/fromsantanu/prob-dist-main/blob/main/README.md)
+- [**Inferential Statistics & Hypothesis Testing**](https://github.com/fromsantanu/inf-stat-main/blob/main/README.md)
+- [**Case Studies**]
+  - [**Exploratory Data Analysis**](https://github.com/fromsantanu/eda-stat-main/blob/main/README.md)
+  - [**Inferential Statistics**](https://github.com/fromsantanu/inf-cst-main/blob/main/README.md)
     
 ### Research Analysis and Reviews
 
