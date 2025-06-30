@@ -42,14 +42,14 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Developing Applications with ChatGPT**](https://github.com/fromsantanu/ChatGPTDev-Tutorial/blob/main/README.md): In this tutorial, we teach how one should approach develping software projects with ChatGPT. THe projects uses Web features and Databases. The technology discussed here involves React Jas for front end development and Python Flask and MySql for backend processes.
 -->
 
-- [**More Knowledge ..**](https://github.com/fromsantanu/More-Main)
+- [**More Knowledge ..**](https://github.com/fromsantanu/More-Main/blob/main/README.md)
 
 ### Case Studies on Healthcare and Epideiology
-- [**Cases of Exploratory Data Analysis (EDA)**](https://github.com/fromsantanu/EDA-Main) : Includes basic charting methods like line chart, bar chart, histogram, pie chart and scatter charts. It also include the methods of data cleaning and preparation etc.
-- [**Uses of Descriptive Statistics (DST)**](https://github.com/fromsantanu/DST-Main) : The scope includes application of mean, medean and mode, varience, covarience, standard deviation, and concept of quartiles and quantiles.
-- [**Application of Inferential Statistics (IST)**](https://github.com/fromsantanu/IST-Main) : The scope include advanced charting with probaility distributions, hypothesis tesing, regression options, ANOVA testing etc.
-- [**Public Health in India (PHIN)**](https://github.com/fromsantanu/PHI-Main) :The section "Public Health in India" focuses on how India is improving healthcare infrastructure, combating diseases, promoting wellness, and addressing health disparities across diverse populations.
-- [**Public Health in United Kingdom (PHUK)**](https://github.com/fromsantanu/PHUK-Main) : The section "Public Health in the United Kingdom" is a comprehensive study of how UK has implemented disease prevention, health promotion, reducing inequalities, and delivering comprehensive healthcare through the NHS (National Health Services).
+- [**Cases of Exploratory Data Analysis (EDA)**](https://github.com/fromsantanu/EDA-Main/blob/main/README.md) : Includes basic charting methods like line chart, bar chart, histogram, pie chart and scatter charts. It also include the methods of data cleaning and preparation etc.
+- [**Uses of Descriptive Statistics (DST)**](https://github.com/fromsantanu/DST-Main/blob/main/README.md) : The scope includes application of mean, medean and mode, varience, covarience, standard deviation, and concept of quartiles and quantiles.
+- [**Application of Inferential Statistics (IST)**](https://github.com/fromsantanu/IST-Main/blob/main/README.md) : The scope include advanced charting with probaility distributions, hypothesis tesing, regression options, ANOVA testing etc.
+- [**Public Health in India (PHIN)**](https://github.com/fromsantanu/PHI-Main/blob/main/README.md) :The section "Public Health in India" focuses on how India is improving healthcare infrastructure, combating diseases, promoting wellness, and addressing health disparities across diverse populations.
+- [**Public Health in United Kingdom (PHUK)**](https://github.com/fromsantanu/PHUK-Main/blob/main/README.md) : The section "Public Health in the United Kingdom" is a comprehensive study of how UK has implemented disease prevention, health promotion, reducing inequalities, and delivering comprehensive healthcare through the NHS (National Health Services).
 <!--
 
 - [Infectious Disease Modeling (IDM) (Comming soon) (Currently disabled)](#) : It will include python scripts for different disease tracking models like SIR, SIER, SIS etc. with examples of disease like Covid, Dengue, TB etc.
@@ -61,10 +61,10 @@ I'm a technology specialist interested in Health Data Science. These repositorie
     
 ### Research Analysis and Reviews
 
-- [**Topic Research (TR)**](https://github.com/fromsantanu/TR-Main) : Topic research involves gathering and synthesizing information on a specific subject (or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
-- [**Research Analysis (RA)**](https://github.com/fromsantanu/RA-Main) : This section will contain analysis and explanation of single chosen research paper on a health related topic. The objective is to make things simpler to understand through easier explanations.
-- [**Literature Review (LR)**](https://github.com/fromsantanu/LR-Main) : A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
-- [**Simulated Research (SR)**](https://github.com/fromsantanu/SR-Main) : In simulated research, we create realistic scenarios to practice research without involving real subjects and real data. We develop complete research proposals, including design, data collection plans, and data analysis strategies, using simulated data. Hypothetical or past real-world cases are used to illustrate the research process and methodologies. This approach allows us to learn and practice how to conduct real research without involving people and actual data.
+- [**Topic Research (TR)**](https://github.com/fromsantanu/TR-Main/blob/main/README.md) : Topic research involves gathering and synthesizing information on a specific subject (or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
+- [**Research Analysis (RA)**](https://github.com/fromsantanu/RA-Main/blob/main/README.md) : This section will contain analysis and explanation of single chosen research paper on a health related topic. The objective is to make things simpler to understand through easier explanations.
+- [**Literature Review (LR)**](https://github.com/fromsantanu/LR-Main/blob/main/README.md) : A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
+- [**Simulated Research (SR)**](https://github.com/fromsantanu/SR-Main/blob/main/README.md) : In simulated research, we create realistic scenarios to practice research without involving real subjects and real data. We develop complete research proposals, including design, data collection plans, and data analysis strategies, using simulated data. Hypothetical or past real-world cases are used to illustrate the research process and methodologies. This approach allows us to learn and practice how to conduct real research without involving people and actual data.
 
 ## English Communication
 - [**Learning to Speak English the British Way (Non-Native)**](https://github.com/fromsantanu/British-English/blob/main/README.md) : Learning to speak the British way as a non-native involves mastering pronunciation, intonation, and unique vocabulary to sound more authentic. It requires listening to native speakers, practicing regularly, and embracing the nuances of British culture and expressions. This section contains examples to practice British way of speaking English with suitable instructions both in text and video form.
