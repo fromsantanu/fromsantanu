@@ -42,7 +42,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Developing Applications with ChatGPT**](https://github.com/fromsantanu/ChatGPTDev-Tutorial/blob/main/README.md): In this tutorial, we teach how one should approach develping software projects with ChatGPT. THe projects uses Web features and Databases. The technology discussed here involves React Jas for front end development and Python Flask and MySql for backend processes.
 -->
 
-- [**More Knowledge ..**](https://github.com/fromsantanu/More-Main/blob/main/README.md)
+- [**Miscellaneous Knowledge ..**](https://github.com/fromsantanu/More-Main/blob/main/README.md)
 
 ### Case Studies on Healthcare and Epideiology
 - [**Cases of Exploratory Data Analysis (EDA)**](https://github.com/fromsantanu/EDA-Main/blob/main/README.md) : Includes basic charting methods like line chart, bar chart, histogram, pie chart and scatter charts. It also include the methods of data cleaning and preparation etc.
@@ -65,9 +65,6 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Research Analysis (RA)**](https://github.com/fromsantanu/RA-Main/blob/main/README.md) : This section will contain analysis and explanation of single chosen research paper on a health related topic. The objective is to make things simpler to understand through easier explanations.
 - [**Literature Review (LR)**](https://github.com/fromsantanu/LR-Main/blob/main/README.md) : A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
 - [**Simulated Research (SR)**](https://github.com/fromsantanu/SR-Main/blob/main/README.md) : In simulated research, we create realistic scenarios to practice research without involving real subjects and real data. We develop complete research proposals, including design, data collection plans, and data analysis strategies, using simulated data. Hypothetical or past real-world cases are used to illustrate the research process and methodologies. This approach allows us to learn and practice how to conduct real research without involving people and actual data.
-
-## English Communication
-- [**Learning to Speak English the British Way (Non-Native)**](https://github.com/fromsantanu/British-English/blob/main/README.md) : Learning to speak the British way as a non-native involves mastering pronunciation, intonation, and unique vocabulary to sound more authentic. It requires listening to native speakers, practicing regularly, and embracing the nuances of British culture and expressions. This section contains examples to practice British way of speaking English with suitable instructions both in text and video form.
 
 ## Contact
 - [**LinkedIn**](https://www.linkedin.com/in/santanukarmakar/)
