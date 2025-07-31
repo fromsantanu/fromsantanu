@@ -58,16 +58,16 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [Machine Learning and Neural Network (MLNN) (Currently disabled)](#) : Implementing machine learning and neural network to analyze and predict different situations related to health and disease.
 - [Data engineering (DEM) (Currently disabled)](#) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 -->
-    
+
+### **For Students of Epidemiology and Bio Statistics**
+- [**Potential DA Projects that may be included in Portfolio.**](https://github.com/fromsantanu/DataAnalytics/blob/main/README.md)
+
 ### Research Analysis and Reviews
 
 - [**Topic Research (TR)**](https://github.com/fromsantanu/TR-Main/blob/main/README.md) : Topic research involves gathering and synthesizing information on a specific subject (or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
 - [**Research Analysis (RA)**](https://github.com/fromsantanu/RA-Main/blob/main/README.md) : This section will contain analysis and explanation of single chosen research paper on a health related topic. The objective is to make things simpler to understand through easier explanations.
 - [**Literature Review (LR)**](https://github.com/fromsantanu/LR-Main/blob/main/README.md) : A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
 - [**Simulated Research (SR)**](https://github.com/fromsantanu/SR-Main/blob/main/README.md) : In simulated research, we create realistic scenarios to practice research without involving real subjects and real data. We develop complete research proposals, including design, data collection plans, and data analysis strategies, using simulated data. Hypothetical or past real-world cases are used to illustrate the research process and methodologies. This approach allows us to learn and practice how to conduct real research without involving people and actual data.
-
-### **For Students of Epidemiology and Bio Statistics**
-- [**Potential DA Projects that may be included in Portfolio.**](https://github.com/fromsantanu/DataAnalytics/blob/main/README.md)
 
 ## Contact
 - [**LinkedIn**](https://www.linkedin.com/in/santanukarmakar/)
