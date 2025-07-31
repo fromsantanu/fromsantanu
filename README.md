@@ -66,7 +66,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Literature Review (LR)**](https://github.com/fromsantanu/LR-Main/blob/main/README.md) : A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
 - [**Simulated Research (SR)**](https://github.com/fromsantanu/SR-Main/blob/main/README.md) : In simulated research, we create realistic scenarios to practice research without involving real subjects and real data. We develop complete research proposals, including design, data collection plans, and data analysis strategies, using simulated data. Hypothetical or past real-world cases are used to illustrate the research process and methodologies. This approach allows us to learn and practice how to conduct real research without involving people and actual data.
 
-### **For Students of Epidemiology and Data Analytics**
+### **For Students of Epidemiology and Bio Statistics**
 - [**Potential DA Projects that may be included in Portfolio.**](https://github.com/fromsantanu/DataAnalytics/blob/main/README.md)
 
 ## Contact
