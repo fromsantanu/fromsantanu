@@ -59,7 +59,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [Data engineering (DEM) (Currently disabled)](#) : These will be a collection of python and SQL scripts extraction, scrapping, cleaning, transfomation and validation of data.
 -->
 
-### **For Students of Epidemiology and Bio Statistics**
+### **For Students of Epidemiology and Bio-Statistics**
 - [**Potential DA Projects that may be included in Portfolio.**](https://github.com/fromsantanu/DataAnalytics/blob/main/README.md)
 
 ### Research Analysis and Reviews
