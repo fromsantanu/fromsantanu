@@ -60,7 +60,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 -->
 
 ### **For Students of Epidemiology and Bio-Statistics**
-- [**Statistical Analyis - Problems and Exercises**](#) : This section contains a list of exercises that can improve problem solving ability using statistical techniques.
+- [**Statistical Analyis - Problems and Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics.md) : This section contains a list of exercises that can improve problem solving ability using statistical techniques.
 - [**Complete Real-life Healthcare Projects worth including in Portfolio**](https://github.com/fromsantanu/DataAnalytics/blob/main/README.md) - This section contains a list of projects of various complexity which can help improving a person's ability to execute them end to end.
 
 ### Research Analysis and Reviews
