@@ -25,7 +25,6 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 -->
 
 ### Foundational Programming Knowledge
-
    - [**Basic Python Programming (BPP)**](https://github.com/fromsantanu/BPP-Main/blob/main/README.md):  The scope includes basic Python techniques for using the Python language. Additionally, there are many packages that are used for different purpose. We have covered commonly used packages like NumPy, Pandas, Matplotlib, and others that are useful in this context.
    - [**Basic R Programming (BRP)**](https://github.com/fromsantanu/BRP-Main/blob/main/README.md):  The scope includes basic R programming with the intention of solving statistical problems. There are two main sections. The first part covers basic R knowledge to solve statistical problems, while the second part focuses on the use of prominent packages commonly used in R.
    - [**QBasic Programming for Budding Programmers (School Level)**](https://github.com/fromsantanu/QBasic-Programming/blob/main/README.md): This tutorial introduces QBasic programming to school-level students, focusing on fundamental concepts like variables, loops, and conditional statements. It provides hands-on exercises to build problem-solving skills and foster an interest in coding through simple, engaging examples particularly for those in grades VI to VIII.
@@ -45,9 +44,6 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**MySQL with XAMPP - Tutorial**](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/README.md): This tutorial covers the fundamentals of SQL using MySQL with XAMPP, guiding learners through database creation, querying, and management. It also explores advanced concepts like joins, stored procedures, and performance optimization, with real-world applications and deployment strategies.
 - [**Developing Applications with ChatGPT**](https://github.com/fromsantanu/ChatGPTDev-Tutorial/blob/main/README.md): In this tutorial, we teach how one should approach develping software projects with ChatGPT. THe projects uses Web features and Databases. The technology discussed here involves React Jas for front end development and Python Flask and MySql for backend processes.
 -->
-
-- [**Miscellaneous Knowledge ..**](https://github.com/fromsantanu/More-Main/blob/main/README.md)
-
 ### Case Studies on Healthcare and Epideiology
 - [**Cases of Exploratory Data Analysis (EDA)**](https://github.com/fromsantanu/EDA-Main/blob/main/README.md) : Includes basic charting methods like line chart, bar chart, histogram, pie chart and scatter charts. It also include the methods of data cleaning and preparation etc.
 - [**Uses of Descriptive Statistics (DST)**](https://github.com/fromsantanu/DST-Main/blob/main/README.md) : The scope includes application of mean, medean and mode, varience, covarience, standard deviation, and concept of quartiles and quantiles.
@@ -65,16 +61,16 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 
 ### **For Students of Epidemiology and Bio-Statistics**
   - [**Public Health and Epidemiology (PHE)**](https://github.com/fromsantanu/PHE-Main/blob/main/README.md) : Public health aims to protect and improve population health through prevention, education, and promoting healthy lifestyles. Epidemiology, a key discipline within public health, studies the patterns, causes, and effects of health and disease conditions in populations, providing critical insights for the development and implementation of effective public health interventions.
-
   - [**Statistical Analyis - Problems and Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics.md) : This section contains a list of exercises that can improve problem solving ability using statistical techniques.
   - [**Complete Real-life Healthcare Projects worth including in Portfolio**](https://github.com/fromsantanu/DataAnalytics/blob/main/README.md) - This section contains a list of projects of various complexity which can help improving a person's ability to execute them end to end.
 
 ### Research Analysis and Reviews
+  - [**Topic Research (TR)**](https://github.com/fromsantanu/TR-Main/blob/main/README.md) : Topic research involves gathering and synthesizing information on a specific subject (or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
+  - [**Research Analysis (RA)**](https://github.com/fromsantanu/RA-Main/blob/main/README.md) : This section will contain analysis and explanation of single chosen research paper on a health related topic. The objective is to make things simpler to understand through easier explanations.
+  - [**Literature Review (LR)**](https://github.com/fromsantanu/LR-Main/blob/main/README.md) : A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
+  - [**Simulated Research (SR)**](https://github.com/fromsantanu/SR-Main/blob/main/README.md) : In simulated research, we create realistic scenarios to practice research without involving real subjects and real data. We develop complete research proposals, including design, data collection plans, and data analysis strategies, using simulated data. Hypothetical or past real-world cases are used to illustrate the research process and methodologies. This approach allows us to learn and practice how to conduct real research without involving people and actual data.
 
-- [**Topic Research (TR)**](https://github.com/fromsantanu/TR-Main/blob/main/README.md) : Topic research involves gathering and synthesizing information on a specific subject (or a topic). It is typically a preliminary stage in research aimed at understanding the breadth and depth of a topic.
-- [**Research Analysis (RA)**](https://github.com/fromsantanu/RA-Main/blob/main/README.md) : This section will contain analysis and explanation of single chosen research paper on a health related topic. The objective is to make things simpler to understand through easier explanations.
-- [**Literature Review (LR)**](https://github.com/fromsantanu/LR-Main/blob/main/README.md) : A literature review is a comprehensive survey of existing literature on a specific topic. It involves summarizing, analyzing, and synthesizing previous research.
-- [**Simulated Research (SR)**](https://github.com/fromsantanu/SR-Main/blob/main/README.md) : In simulated research, we create realistic scenarios to practice research without involving real subjects and real data. We develop complete research proposals, including design, data collection plans, and data analysis strategies, using simulated data. Hypothetical or past real-world cases are used to illustrate the research process and methodologies. This approach allows us to learn and practice how to conduct real research without involving people and actual data.
+- [**Miscellaneous Knowledge ..**](https://github.com/fromsantanu/More-Main/blob/main/README.md)
 
 ## Contact
 - [**LinkedIn**](https://www.linkedin.com/in/santanukarmakar/)
