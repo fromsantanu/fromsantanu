@@ -43,7 +43,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
   - [**Understanding Text to Speech Systems**](#) :
   - [**Introduction to Voice Cloning Systems**](#) : 
   - [**Understanding AI Based Music Generation**](https://github.com/fromsantanu/AI-Based-Music-Generation/blob/main/README.md) : Music generation is one of most exciting aspect of AI like text or image generation. This section teaches you how to reliably generate various kind of music using Suno Music Generator. This tutorial is divided into four levels. The last level is for those who are technically aligned and wants to know more. Additionally it also suggests four levels of capstone projects to try your knowledge.
-  - [**Developing (End to End) Indian Music Generation System (Project Conceptualization)**] : This section is based on our belief that Indian Music system is very complex and special. It is different fron way western music system has been conceptualized. 
+  - [**Developing (End to End) Indian Music Generation System (Project Conceptualization)**] : This section is based on our belief that Indian Music system is very complex and special. It is different fron way Western Music System has been conceptualized. 
   - [**Developing Multi-Tier Systems with OpenAI Codex (Only for Advanced Learners)**](https://github.com/fromsantanu/Codex-Development/blob/main/README.md) : If you have understood the technology discussed in the above two sections and hold strong foundation knowledge of both of them and you are familar with REST APS and System development lifecycle then you can use OpenAI Codex to increase your productivity to systematically build complex systems that can be used in real life scenario.
 
 <!--
