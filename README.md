@@ -52,7 +52,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
   - **Transformer Technologies**
     - [**Transformer Technologies - A Comprehensive Overview**](https://github.com/fromsantanu/TRNTut/blob/main/README.md) : This tutorial explains Transformer models step-by-step, starting from simple ideas like attention to full architectures such as BERT and GPT. It combines clear explanations with hands-on projects so learners can understand and apply Transformers in real tasks like text analysis, generation, and translation. By the end, students build practical AI solutions and see how Transformer technologies are used in areas like healthcare, education, and computer vision.
 
-### **Generative Arificial Intelligence (Gen AI)**
+### **Generative Artificial Intelligence (Gen AI)**
 - [**Introduction to Generative AI**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/GENAI/README.md) : This tutorial provides a clear, step-by-step introduction to Generative AI, starting from basic concepts and moving toward advanced ideas like transformers and large language models. 
 - [**GANs and Diffusion Models (With Learning Mechanics Integrated)**](https://github.com/fromsantanu/GenTechTut/blob/main/README.md) : A beginner-friendly, yet conceptually deep tutorial covering how modern AI generates images and audio using **GANs** and **Diffusion Models**, with a strong focus on **how they actually learn**.
       
