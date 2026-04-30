@@ -52,12 +52,12 @@ I'm a technology specialist interested in Health Data Science. These repositorie
   - **Transformer Technologies**
     - [**Transformer Technologies - A Comprehensive Overview**](https://github.com/fromsantanu/TRNTut/blob/main/README.md) : This tutorial explains Transformer models step-by-step, starting from simple ideas like attention to full architectures such as BERT and GPT. It combines clear explanations with hands-on projects so learners can understand and apply Transformers in real tasks like text analysis, generation, and translation. By the end, students build practical AI solutions and see how Transformer technologies are used in areas like healthcare, education, and computer vision.
 
-  - **Generative Technologies**
+  - **Generative Arificial Intelligence (Gen AI)**
+    - [**Introduction to Generative AI**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/GENAI/README.md)
     - [**GANs and Diffusion Models (With Learning Mechanics Integrated)**](https://github.com/fromsantanu/GenTechTut/blob/main/README.md) : A beginner-friendly, yet conceptually deep tutorial covering how modern AI generates images and audio using **GANs** and **Diffusion Models**, with a strong focus on **how they actually learn**.
       
-  - [**Natural Language Processing**](https://github.com/fromsantanu/IntNlp/blob/main/README.md) : Natural language processing (NLP) is one of the most important areas of study in modern AI. This tutorial is divided into seven parts, arranged in increasing order of complexity. It is designed for learners who are already familiar with the basics of machine learning and deep learning.
-  - **Generative Models of Artificial Intelligence - Introduction** : This section provides you a very high level understanding of underlying concepts of Generative AI and ro;e of LLMs in them. It also informs you about how to make best of such AIs using prompt engineering techniques. 
-    - [**Introduction to Generative AI**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/GENAI/README.md)
+  - **Large Language Models (LLMs) - Introduction** : This section provides you a very high level understanding of underlying concepts of Generative AI and ro;e of LLMs in them. It also informs you about how to make best of such AIs using prompt engineering techniques. 
+     - [**Natural Language Processing - The Staring Point**](https://github.com/fromsantanu/IntNlp/blob/main/README.md) : Natural language processing (NLP) is one of the most important areas of study in modern AI. This tutorial is divided into seven parts, arranged in increasing order of complexity. It is designed for learners who are already familiar with the basics of machine learning and deep learning.
     - [**Understanding Large Language Models (LLMs)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/README.md)
     - [**Prompt Engineering**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/PROMPT/README.md)
  
