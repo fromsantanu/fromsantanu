@@ -53,8 +53,8 @@ I'm a technology specialist interested in Health Data Science. These repositorie
       
 ### Large Language Models (LLMs) - Understanding Intelligent Chatbots
 - [**Natural Language Processing - The Staring Point**](https://github.com/fromsantanu/IntNlp/blob/main/README.md) : Natural language processing (NLP) is one of the most important areas of study in modern AI. This tutorial is divided into seven parts, arranged in increasing order of complexity. It is designed for learners who are already familiar with the basics of machine learning and deep learning.
-- [**Understanding Large Language Models (LLMs)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/README.md)
-- [**Prompt Engineering**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/PROMPT/README.md)
+- [**Understanding Large Language Models (LLMs)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/README.md) : A complete, step-by-step guide to how Large Language Models work—from their core architecture and training process to real-world applications and deployment. It also covers practical usage, evaluation, advanced techniques, and the broader impact of LLMs on technology and society.
+- [**Prompt Engineering**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/PROMPT/README.md) : 
   
 ### Understanding Agentic Systems and Use of AI
 - [**Mastery on LLM-based Agentic Systems (Three Part Tutorial Set)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/README.md) : This section provides complete roadmap and required tutotals for designing and developing LLM-based Agentic Systems. This section is appropriate for beginners, intermediate and advanced learners of both coding and non-coding background. The learner needs to be interested in Software System design and archtecting.
