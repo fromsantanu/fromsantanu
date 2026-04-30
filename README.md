@@ -56,7 +56,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Introduction to Generative AI**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/GENAI/README.md) : This tutorial provides a clear, step-by-step introduction to Generative AI, starting from basic concepts and moving toward advanced ideas like transformers and large language models. 
 - [**GANs and Diffusion Models (With Learning Mechanics Integrated)**](https://github.com/fromsantanu/GenTechTut/blob/main/README.md) : A beginner-friendly, yet conceptually deep tutorial covering how modern AI generates images and audio using **GANs** and **Diffusion Models**, with a strong focus on **how they actually learn**.
       
-### **Large Language Models (LLMs) 
+### Large Language Models (LLMs) - Understanding Intelligent Chatbots
 - [**Natural Language Processing - The Staring Point**](https://github.com/fromsantanu/IntNlp/blob/main/README.md) : Natural language processing (NLP) is one of the most important areas of study in modern AI. This tutorial is divided into seven parts, arranged in increasing order of complexity. It is designed for learners who are already familiar with the basics of machine learning and deep learning.
 - [**Understanding Large Language Models (LLMs)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/README.md)
 - [**Prompt Engineering**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/PROMPT/README.md)
