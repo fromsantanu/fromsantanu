@@ -57,7 +57,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Prompt Engineering**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/PROMPT/README.md)
   
 ### Understanding Agentic Systems and Use of AI
-- [**Mastery on LLM-based Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/README.md) : This section provides complete roadmap and required tutotals for designing and developing LLM-based Agentic Systems. This section is appropriate for beginners, intermediate and advanced learners of both coding and non-coding background. The learner needs to be interested in Software System design and archtecting.
+- [**Mastery on LLM-based Agentic Systems (Three Part Tutorial Set)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/README.md) : This section provides complete roadmap and required tutotals for designing and developing LLM-based Agentic Systems. This section is appropriate for beginners, intermediate and advanced learners of both coding and non-coding background. The learner needs to be interested in Software System design and archtecting.
 
 ### Applications of Artificial Intelligence
   - [**Understanding Text to Speech Systems**](https://github.com/fromsantanu/TTS-Systems/blob/main/README.md) : AI-based text-to-speech (TTS) systems are now widely used across many domains. Platforms such as ElevenLabs and Speechify can generate high-quality speech from text input. These systems are capable of handling different emotions, accents, and even multiple non-English languages. This tutorial provides lessons that explain the fundamental process of converting text into speech. It also includes a detailed discussion of one such system.
