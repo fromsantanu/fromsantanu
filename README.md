@@ -36,7 +36,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
   - [**Introduction to Research Methods (IRM)**](https://github.com/fromsantanu/IRM-Main/blob/main/README.md) : Here, we have tried to include sections on common research methods related to the healthcare domain. Healthcare heavily depends on new findings contributed by research and studies on existing methods of treatment and their efficacies. Hence, we consider the ability to conduct research to be fundamental to healthcare studies.
   - [**Basic Statistics for Research (BSR)**](https://github.com/fromsantanu/BSR-Main/blob/main/README.md) : In this section we have covered the basic techniques of statistics relevant to research and investigation. Please note we have not gone into the theoretical part, rather we focused on their fitment in different situations and various ways they can be performed using Python and R programming language both.
 
-### Artificial Intelligence and its Applications
+### Artificial Intelligence - The Mechanism Behind it
   - [**Introduction to Machine Learning, Deep Learning Concepts**](https://github.com/fromsantanu/master-ml-dl/blob/main/README.md) : This section provides complete roadmap and required tutorials for AI Engineers without getting into computational complexity. This course covers Machine Learning, Deep learning concepts and its application in Computer Vision, Natural language Processing and other areas. This section is suitable for those looking to be AI Engineers but do not have strong mathemetical background. hence they will require more indepth study of each of the chapters to become a master of the trade.
   
   - **Deep Learning Technologies (DL)**
