@@ -72,11 +72,15 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Developing Applications with ChatGPT**](https://github.com/fromsantanu/ChatGPTDev-Tutorial/blob/main/README.md): In this tutorial, we teach how one should approach develping software projects with ChatGPT. THe projects uses Web features and Databases. The technology discussed here involves React Jas for front end development and Python Flask and MySql for backend processes.
 -->
 ### **AI Projects (Open Source)**
-  - [**RVC Voice Training for Colab**](#) :
+  - [**RVC Voice Trainer for Colab**](#) :
 
   - [**RVC Studio for Colab**](#) :
+
+  - [**RVC Studio for Local Setup**](#) :
     
   - [**Build Songs (Suno Studio 5.5)**](#) :
+
+  - [**Eleven Lab TTS Studio - Local Setup**](#) :
 
 ### **For Students of Epidemiology and Bio-Statistics**
   - [**Public Health and Epidemiology (PHE)**](https://github.com/fromsantanu/PHE-Main/blob/main/README.md) : Public health aims to protect and improve population health through prevention, education, and promoting healthy lifestyles. Epidemiology, a key discipline within public health, studies the patterns, causes, and effects of health and disease conditions in populations, providing critical insights for the development and implementation of effective public health interventions.
