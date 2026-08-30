@@ -72,7 +72,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Developing Applications with ChatGPT**](https://github.com/fromsantanu/ChatGPTDev-Tutorial/blob/main/README.md): In this tutorial, we teach how one should approach develping software projects with ChatGPT. THe projects uses Web features and Databases. The technology discussed here involves React Jas for front end development and Python Flask and MySql for backend processes.
 -->
 ### **AI Projects (Open Source)**
-  - [**RVC Training**](#) :
+  - [**RVC Voice Training for Colab**](#) :
 
   - [**RVC Studio for Colab**](#) :
     
