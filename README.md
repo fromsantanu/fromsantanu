@@ -71,6 +71,13 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**MySQL with XAMPP - Tutorial**](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/README.md): This tutorial covers the fundamentals of SQL using MySQL with XAMPP, guiding learners through database creation, querying, and management. It also explores advanced concepts like joins, stored procedures, and performance optimization, with real-world applications and deployment strategies.
 - [**Developing Applications with ChatGPT**](https://github.com/fromsantanu/ChatGPTDev-Tutorial/blob/main/README.md): In this tutorial, we teach how one should approach develping software projects with ChatGPT. THe projects uses Web features and Databases. The technology discussed here involves React Jas for front end development and Python Flask and MySql for backend processes.
 -->
+### **AI Projects (Open Source)**
+  - [**RVC Training**](#) :
+
+  - [**RVC Studio for Colab**](#) :
+    
+  - [**Build Songs (Suno Studio 5.5)**](#) :
+
 ### **For Students of Epidemiology and Bio-Statistics**
   - [**Public Health and Epidemiology (PHE)**](https://github.com/fromsantanu/PHE-Main/blob/main/README.md) : Public health aims to protect and improve population health through prevention, education, and promoting healthy lifestyles. Epidemiology, a key discipline within public health, studies the patterns, causes, and effects of health and disease conditions in populations, providing critical insights for the development and implementation of effective public health interventions.
   - [**Statistical Analyis - Problems and Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics.md) : This section contains a list of exercises that can improve problem solving ability using statistical techniques.
