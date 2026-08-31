@@ -77,7 +77,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 Each project is designed as a learning starting point for students, developers, and curious minds to experiment with AI-assisted development. Build, learn, share, and let others take the work further.
 
 ## **For Professionals**
-  - [**RVC Voice Trainer for Colab**](#) : RVC Voice Trainer for Colab is a GPU-enabled Google Colab application for training custom RVC voice models. It provides an easy-to-use interface for dataset preparation, training parameters, feature extraction, and model management. Trained voice models and index files can be downloaded or saved directly to Google Drive for later use.
+  - [**RVC Voice Trainer for Colab**](https://github.com/fromsantanu/RVC_Voice_Trainer) : RVC Voice Trainer for Colab is a GPU-enabled Google Colab application for training custom RVC voice models. It provides an easy-to-use interface for dataset preparation, training parameters, feature extraction, and model management. Trained voice models and index files can be downloaded or saved directly to Google Drive for later use.
 
   - [**RVC Studio for Colab**](#) : RVC Studio – Colab Project is a Google Colab–based voice conversion studio that brings the powerful features of RVC into an accessible, browser-based environment. Designed for learning, experimentation, and further development of AI-powered voice cloning and conversion workflows.
 
