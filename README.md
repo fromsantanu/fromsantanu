@@ -88,6 +88,7 @@ Create complete songs with Suno Studio 5.5 using AI-powered music generation, ly
 
   - [**Eleven Lab TTS Studio - Local Setup**](#) : ElevenLabs TTS Studio – Local Setup - A local text-to-speech studio for generating natural, expressive speech using ElevenLabs voice technology. Run the application on your own computer to create and manage high-quality voice outputs with greater control over your workflow. Designed as a practical foundation for experimenting with AI voice generation locally.
 
+# **Study of Statistics and Biostatistics**
 ### **For Students of Epidemiology and Bio-Statistics**
   - [**Public Health and Epidemiology (PHE)**](https://github.com/fromsantanu/PHE-Main/blob/main/README.md) : Public health aims to protect and improve population health through prevention, education, and promoting healthy lifestyles. Epidemiology, a key discipline within public health, studies the patterns, causes, and effects of health and disease conditions in populations, providing critical insights for the development and implementation of effective public health interventions.
   - [**Statistical Analyis - Problems and Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics.md) : This section contains a list of exercises that can improve problem solving ability using statistical techniques.
