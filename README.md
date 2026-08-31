@@ -71,7 +71,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**MySQL with XAMPP - Tutorial**](https://github.com/fromsantanu/MySQL-Tutorial/blob/main/README.md): This tutorial covers the fundamentals of SQL using MySQL with XAMPP, guiding learners through database creation, querying, and management. It also explores advanced concepts like joins, stored procedures, and performance optimization, with real-world applications and deployment strategies.
 - [**Developing Applications with ChatGPT**](https://github.com/fromsantanu/ChatGPTDev-Tutorial/blob/main/README.md): In this tutorial, we teach how one should approach develping software projects with ChatGPT. THe projects uses Web features and Databases. The technology discussed here involves React Jas for front end development and Python Flask and MySql for backend processes.
 -->
-### **AI Projects (Open Source)**
+# **AI Projects (Open Source)**
 ## **For Students**
   - [**Generative AI Lab Project**](#) : Generative AI Lab Project is a collection of hands-on projects exploring how generative AI systems can be built, understood, and improved.
 Each project is designed as a learning starting point for students, developers, and curious minds to experiment with AI-assisted development. Build, learn, share, and let others take the work further.
