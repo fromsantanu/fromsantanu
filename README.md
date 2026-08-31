@@ -72,9 +72,11 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Developing Applications with ChatGPT**](https://github.com/fromsantanu/ChatGPTDev-Tutorial/blob/main/README.md): In this tutorial, we teach how one should approach develping software projects with ChatGPT. THe projects uses Web features and Databases. The technology discussed here involves React Jas for front end development and Python Flask and MySql for backend processes.
 -->
 ### **AI Projects (Open Source)**
+## **For Students**
   - [**Generative AI Lab Project**](#) : Generative AI Lab Project is a collection of hands-on projects exploring how generative AI systems can be built, understood, and improved.
 Each project is designed as a learning starting point for students, developers, and curious minds to experiment with AI-assisted development. Build, learn, share, and let others take the work further.
-    
+
+## **For Professionals**
   - [**RVC Voice Trainer for Colab**](#) : RVC Voice Trainer for Colab is a GPU-enabled Google Colab application for training custom RVC voice models. It provides an easy-to-use interface for dataset preparation, training parameters, feature extraction, and model management. Trained voice models and index files can be downloaded or saved directly to Google Drive for later use.
 
   - [**RVC Studio for Colab**](#) : RVC Studio – Colab Project is a Google Colab–based voice conversion studio that brings the powerful features of RVC into an accessible, browser-based environment. Designed for learning, experimentation, and further development of AI-powered voice cloning and conversion workflows.
