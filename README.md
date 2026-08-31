@@ -73,7 +73,7 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 -->
 # **AI Projects (Open Source)**
 ## **For Students**
-  - [**Generative AI Lab Project**](#) : Generative AI Lab Project is a collection of hands-on projects exploring how generative AI systems can be built, understood, and improved.
+  - [**Generative AI Lab Project**](https://github.com/fromsantanu/Generative-AI-Lab) : Generative AI Lab Project is a collection of hands-on projects exploring how generative AI systems can be built, understood, and improved.
 Each project is designed as a learning starting point for students, developers, and curious minds to experiment with AI-assisted development. Build, learn, share, and let others take the work further.
 
 ## **For Professionals**
