@@ -72,15 +72,19 @@ I'm a technology specialist interested in Health Data Science. These repositorie
 - [**Developing Applications with ChatGPT**](https://github.com/fromsantanu/ChatGPTDev-Tutorial/blob/main/README.md): In this tutorial, we teach how one should approach develping software projects with ChatGPT. THe projects uses Web features and Databases. The technology discussed here involves React Jas for front end development and Python Flask and MySql for backend processes.
 -->
 ### **AI Projects (Open Source)**
-  - [**RVC Voice Trainer for Colab**](#) :
-
-  - [**RVC Studio for Colab**](#) :
-
-  - [**RVC Studio for Local Setup**](#) :
+  - [**Generative AI Lab Project**](#) : Generative AI Lab Project is a collection of hands-on projects exploring how generative AI systems can be built, understood, and improved.
+Each project is designed as a learning starting point for students, developers, and curious minds to experiment with AI-assisted development. Build, learn, share, and let others take the work further.
     
-  - [**Build Songs (Suno Studio 5.5)**](#) :
+  - [**RVC Voice Trainer for Colab**](#) : RVC Voice Trainer for Colab is a GPU-enabled Google Colab application for training custom RVC voice models. It provides an easy-to-use interface for dataset preparation, training parameters, feature extraction, and model management. Trained voice models and index files can be downloaded or saved directly to Google Drive for later use.
 
-  - [**Eleven Lab TTS Studio - Local Setup**](#) :
+  - [**RVC Studio for Colab**](#) : RVC Studio – Colab Project is a Google Colab–based voice conversion studio that brings the powerful features of RVC into an accessible, browser-based environment. Designed for learning, experimentation, and further development of AI-powered voice cloning and conversion workflows.
+
+  - [**RVC Studio for Local Setup**](#) : RVC Studio – Local Setup is a complete local desktop environment for AI-powered voice conversion and voice cloning using RVC technology. Designed for users who want to run, experiment with, and extend RVC workflows directly on their own computer.
+    
+  - [**Build Songs (Suno Studio 5.5)**](#) : Build Songs (Suno Studio 5.5). Build Songs (Suno Studio 5.5)
+Create complete songs with Suno Studio 5.5 using AI-powered music generation, lyrics, vocals, and instrumental arrangements. Generate, refine, manage, and download your songs through an easy-to-use workflow. 
+
+  - [**Eleven Lab TTS Studio - Local Setup**](#) : ElevenLabs TTS Studio – Local Setup - A local text-to-speech studio for generating natural, expressive speech using ElevenLabs voice technology. Run the application on your own computer to create and manage high-quality voice outputs with greater control over your workflow. Designed as a practical foundation for experimenting with AI voice generation locally.
 
 ### **For Students of Epidemiology and Bio-Statistics**
   - [**Public Health and Epidemiology (PHE)**](https://github.com/fromsantanu/PHE-Main/blob/main/README.md) : Public health aims to protect and improve population health through prevention, education, and promoting healthy lifestyles. Epidemiology, a key discipline within public health, studies the patterns, causes, and effects of health and disease conditions in populations, providing critical insights for the development and implementation of effective public health interventions.
