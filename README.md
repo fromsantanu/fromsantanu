@@ -83,10 +83,10 @@ Each project is designed as a learning starting point for students, developers, 
 
   - [**RVC Studio for Local Setup**](https://github.com/fromsantanu/RVC-Studio-Local) : RVC Studio – Local Setup is a complete local desktop environment for AI-powered voice conversion and voice cloning using RVC technology. Designed for users who want to run, experiment with, and extend RVC workflows directly on their own computer.
     
-  - [**Build Songs (Suno Studio 5.5)**](#) : Build Songs (Suno Studio 5.5). Build Songs (Suno Studio 5.5)
+  - [**Build Songs (Suno Studio 5.5)**](https://github.com/fromsantanu/Build_Songs) : Build Songs (Suno Studio 5.5). Build Songs (Suno Studio 5.5)
 Create complete songs with Suno Studio 5.5 using AI-powered music generation, lyrics, vocals, and instrumental arrangements. Generate, refine, manage, and download your songs through an easy-to-use workflow. 
 
-  - [**Eleven Lab TTS Studio - Local Setup**](#) : ElevenLabs TTS Studio – Local Setup - A local text-to-speech studio for generating natural, expressive speech using ElevenLabs voice technology. Run the application on your own computer to create and manage high-quality voice outputs with greater control over your workflow. Designed as a practical foundation for experimenting with AI voice generation locally.
+  - [**Eleven Lab TTS Studio - Local Setup**](https://github.com/fromsantanu/Elevenlabs_TTS) : ElevenLabs TTS Studio – Local Setup - A local text-to-speech studio for generating natural, expressive speech using ElevenLabs voice technology. Run the application on your own computer to create and manage high-quality voice outputs with greater control over your workflow. Designed as a practical foundation for experimenting with AI voice generation locally.
 
 # **Study of Statistics and Biostatistics**
 ### **For Students of Epidemiology and Bio-Statistics**
