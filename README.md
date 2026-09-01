@@ -79,7 +79,7 @@ Each project is designed as a learning starting point for students, developers, 
 ## **For Professionals**
   - [**RVC Voice Trainer for Colab**](https://github.com/fromsantanu/RVC_Voice_Trainer) : RVC Voice Trainer for Colab is a GPU-enabled Google Colab application for training custom RVC voice models. It provides an easy-to-use interface for dataset preparation, training parameters, feature extraction, and model management. Trained voice models and index files can be downloaded or saved directly to Google Drive for later use.
 
-  - [**RVC Studio for Colab**](#) : RVC Studio – Colab Project is a Google Colab–based voice conversion studio that brings the powerful features of RVC into an accessible, browser-based environment. Designed for learning, experimentation, and further development of AI-powered voice cloning and conversion workflows.
+  - [**RVC Studio for Colab**](https://github.com/fromsantanu/RVC_Studio_Colab) : RVC Studio – Colab Project is a Google Colab–based voice conversion studio that brings the powerful features of RVC into an accessible, browser-based environment. Designed for learning, experimentation, and further development of AI-powered voice cloning and conversion workflows.
 
   - [**RVC Studio for Local Setup**](#) : RVC Studio – Local Setup is a complete local desktop environment for AI-powered voice conversion and voice cloning using RVC technology. Designed for users who want to run, experiment with, and extend RVC workflows directly on their own computer.
     
