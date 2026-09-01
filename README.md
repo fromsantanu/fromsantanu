@@ -81,7 +81,7 @@ Each project is designed as a learning starting point for students, developers, 
 
   - [**RVC Studio for Colab**](https://github.com/fromsantanu/RVC_Studio_Colab) : RVC Studio – Colab Project is a Google Colab–based voice conversion studio that brings the powerful features of RVC into an accessible, browser-based environment. Designed for learning, experimentation, and further development of AI-powered voice cloning and conversion workflows.
 
-  - [**RVC Studio for Local Setup**](#) : RVC Studio – Local Setup is a complete local desktop environment for AI-powered voice conversion and voice cloning using RVC technology. Designed for users who want to run, experiment with, and extend RVC workflows directly on their own computer.
+  - [**RVC Studio for Local Setup**](https://github.com/fromsantanu/RVC-Studio-Local) : RVC Studio – Local Setup is a complete local desktop environment for AI-powered voice conversion and voice cloning using RVC technology. Designed for users who want to run, experiment with, and extend RVC workflows directly on their own computer.
     
   - [**Build Songs (Suno Studio 5.5)**](#) : Build Songs (Suno Studio 5.5). Build Songs (Suno Studio 5.5)
 Create complete songs with Suno Studio 5.5 using AI-powered music generation, lyrics, vocals, and instrumental arrangements. Generate, refine, manage, and download your songs through an easy-to-use workflow. 
